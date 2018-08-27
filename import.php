@@ -12,11 +12,11 @@ CREATE TABLE IF NOT EXISTS `sys_date_format` (
 
 SQLExec('
 INSERT INTO `sys_date_format` (`TITLE`, `FORMAT`, `LINKED_OBJECT`, `LINKED_PROPERTY`) VALUES
-(\'Часы\', \'H\', \'ThisComputer\', \'timeNowH\'),
-(\'Минуты\', \'i\', \'ThisComputer\', \'timeNowM\'),
-(\'Время\', \'H:i\', \'ThisComputer\', \'timeNow\'),
-(\'Дата\', \'d1\', \'ThisComputer\', \'dateNow\'),
-(\'День недели\', \'n1\', \'ThisComputer\', \'DayOfWeek\');
+(\'Часы\', \'H\', \'Time\', \'timeNowH\'),
+(\'Минуты\', \'i\', \'Time\', \'timeNowM\'),
+(\'Время\', \'H:i\', \'Time\', \'timeNow\'),
+(\'Дата\', \'d1\', \'Time\', \'dateNow\'),
+(\'День недели\', \'n1\', \'Time\', \'DayOfWeek\');
 
 ');
   
