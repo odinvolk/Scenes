@@ -1,1 +1,664 @@
+a:1:{s:10:"SCENE_DATA";a:9:{s:5:"TITLE";s:10:"OkBitShema";s:10:"BACKGROUND";s:60:"http://192.168.10.28/cms/scenes/backgrounds/fon_1279x747.png";s:8:"PRIORITY";s:3:"140";s:6:"HIDDEN";s:1:"1";s:9:"WALLPAPER";s:0:"";s:15:"WALLPAPER_FIXED";s:1:"0";s:18:"WALLPAPER_NOREPEAT";s:1:"0";s:10:"AUTO_SCALE";s:1:"0";s:8:"ELEMENTS";a:31:{i:0;a:29:{s:2:"ID";s:3:"476";s:5:"TITLE";s:38:"Подсветка в гостиной";s:4:"TYPE";s:6:"switch";s:3:"TOP";s:3:"655";s:4:"LEFT";s:4:"1008";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:4:"1000";s:9:"CSS_STYLE";s:3:"bra";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:9:"sdevice55";s:13:"LINKED_OBJECT";s:7:"Relay01";s:15:"LINKED_PROPERTY";s:6:"status";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:2:"[]";s:11:"EASY_CONFIG";s:1:"1";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:2:{i:0;a:27:{s:5:"TITLE";s:2:"on";s:5:"IMAGE";s:0:"";s:4:"HTML";s:38:"Подсветка в гостиной";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:7:"Relay01";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";N;s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:7:"Relay01";s:13:"ACTION_METHOD";s:7:"turnOff";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";N;s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:3:"off";s:5:"IMAGE";s:0:"";s:4:"HTML";s:38:"Подсветка в гостиной";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:7:"Relay01";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";N;s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:7:"Relay01";s:13:"ACTION_METHOD";s:6:"turnOn";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";N;s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:1;a:29:{s:2:"ID";s:3:"204";s:5:"TITLE";s:4:"Menu";s:4:"TYPE";s:9:"container";s:3:"TOP";s:1:"5";s:4:"LEFT";s:4:"1008";s:5:"WIDTH";s:3:"260";s:6:"HEIGHT";s:2:"95";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"3";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:2;a:29:{s:2:"ID";s:3:"205";s:5:"TITLE";s:11:"button_dop1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"250";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:176:"   <div class="okbitbr" onclick="location.href='%linkdop.s1%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Прихожая
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:3;a:29:{s:2:"ID";s:3:"206";s:5:"TITLE";s:8:"dop_menu";s:4:"TYPE";s:9:"container";s:3:"TOP";s:3:"110";s:4:"LEFT";s:4:"1008";s:5:"WIDTH";s:3:"260";s:6:"HEIGHT";s:3:"530";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"2";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";N;s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:4;a:29:{s:2:"ID";s:3:"207";s:5:"TITLE";s:9:"Left_info";s:4:"TYPE";s:9:"container";s:3:"TOP";s:1:"5";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"995";s:6:"HEIGHT";s:3:"739";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"1";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:5;a:29:{s:2:"ID";s:3:"210";s:5:"TITLE";s:8:"button_1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"204";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"204";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:83:"<div onclick="location.href='%link.s1%';" style="cursor: pointer;">%graph.g1%</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:6;a:29:{s:2:"ID";s:3:"211";s:5:"TITLE";s:9:"css+timer";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:2290:"b {
+       color:#68bf0d;
+}
 
+
+.element_207, .element_206, .element_205, .element_204 {
+       background:#353535;
+}
+
+.b1 {
+      width:70px;
+      height:70px;
+      padding: 2px;
+      border: 1px solid #ad4;
+      border-radius: 5px;
+}
+
+.okbitbr {
+      padding: 5px;
+    width: 250px;
+    height: 40px;
+      background-color: rgba(0,0,0,0.5);
+      border: 1px solid rgba(216,197,197,0.15);
+      border-radius: 5px;
+}
+
+.b1 img {
+     margin-left: 16px;
+     margin-top:6px;
+}
+
+.b1_in {
+     margin-top: 5px;
+     text-align: center;
+}
+
+.okbitbr_in {
+     margin-top: 5px;
+     text-align: center;
+     font-size:14px;
+}
+
+.bb{
+      width:216px;
+      height:36px;
+      padding: 4px;
+      background-color: rgba(0,0,0,0.5);
+      border: 1px solid rgba(216,197,197,0.15);
+      border-radius: 2px;
+}
+
+
+
+.bb_in {
+      text-align: center;
+}
+
+a {
+     text-decoration: none;
+}
+
+.text_ten {
+    text-shadow: #000 0 0 3px;
+}
+/* -----------------------------------------------------------------------*/
+.element_197 { animation: fortime 1s ease-out; } /* - блок времени */
+/* ------------------------------------------------------------------------------------------------------------------------------------------- */
+
+ -----------------------------------------------------------------------*/
+/* панель времени  */
+/* -----------------------------------------------------------------------*/
+.panel-time {
+ box-sizing: border-box;
+ color: White;
+ background-color: rgba(0, 0, 0, 0.4);
+ text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+
+/* выше общее */
+ position: absolute;
+ top: 10px;
+ width: 480px;
+ border-radius: 0px 0px 0px 0px;
+ /* animation: fortime 1s ease-out;*/
+}
+.panel-time .time {
+ font-size: 140px;
+ line-height: 1.1;
+ text-align: center;
+ font-family: arial;
+ font-weight: 600;
+}
+.panel-time .time .blnk {
+ font-size: 140px;
+ line-height: 1.1;
+ text-align: center;
+ font-family: arial;
+ font-weight: 600;
+animation: blink 1s ease infinite;
+}
+.panel-time .date {
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 18px;
+  line-height: 1.2;
+  text-align: center;
+  font-family: arial;
+  font-weight: 100;
+  border-radius: 0px 0px 0px 0px;
+}";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:0:{}}i:7;a:29:{s:2:"ID";s:3:"212";s:5:"TITLE";s:8:"button_2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:2:"89";s:5:"WIDTH";s:2:"80";s:6:"HEIGHT";s:2:"80";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"204";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"204";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:2054:"<?xml version="1.0" encoding="UTF-8"?>
+<svg id="element_212" version="1.1" viewBox="0 0 108 108"
+       onclick="window.location.href='%link.s2%'"
+       onmouseover="MakeTransparent(evt)"
+       onmouseout="MakeOpaque(evt)"
+       ontouchstart="MakeTransparent(evt)"
+       ontouchend="MakeOpaque(evt)"
+       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient912" x1="56.5" x2="55" y1="104" y2="-59.2" gradientUnits="userSpaceOnUse">
+   <stop id="stop906" stop-color="#5fbd02" offset="0"/>
+   <stop id="stop908" stop-color="#dade94" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="myFilter1">
+   <feGaussianBlur stdDeviation="0.2"/>
+   <feColorMatrix type="saturate" values="1.2" />
+  </filter>
+  <symbol id="shome">
+   <path id="home" d="m8.37 88.6v16.9l1.15 1.21h12.6v-10.9h5.73v10.9h4.58l1.15-1.21v-16.9l-11.5-12.1c-1.15-1.21-1.15-1.21-2.3 0zm-8.03-1.21c-1.15 1.21 1.15 4.84 4.58 3.63h2.3v14.5c0 1.21 1.15 2.41 2.3 2.41h23c1.15 0 2.3-1.21 2.3-2.41v-14.5h2.3c3.43 1.21 5.73-2.41 4.58-3.63l-19.5-20.6c-1.15-0.989-1.15-0.999-2.3 0l-6.88 7.25v-2.41h-4.58v7.25z" 
+         fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width=".1"/>
+  </symbol>
+ </defs>
+ <rect id="rect6314" x="1" y="1" width="106" height="106" rx="5" ry="5" fill="#dade94"/>
+ <rect id="rect7" x="1" y="1" width="106" height="106" rx="5" ry="5" fill="url(#linearGradient912)" stroke="#ad4" stroke-width="2"/>
+ <text id="text6939" x="54" y="83" fill="#ffffff" font-family="Ubuntu" font-size="16px" font-weight="500" text-anchor="middle" 
+        filter="url(#myFilter1)">Климат</text>
+ <use id="figura" transform="translate(33 -45)" width="100%" height="100%" xlink:href="#shome"/>
+
+</svg>
+<script type="text/ecmascript">
+  <![CDATA[
+    function MakeTransparent(evt) {
+      evt.target.setAttributeNS(null,"opacity","0.5");
+    }
+
+    function MakeOpaque(evt) {
+      evt.target.setAttributeNS(null,"opacity","1");
+    }
+  ]]>
+</script>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:8;a:29:{s:2:"ID";s:3:"216";s:5:"TITLE";s:8:"button_6";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"173";s:5:"WIDTH";s:2:"80";s:6:"HEIGHT";s:2:"80";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"204";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"204";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:2152:"<?xml version="1.0" encoding="UTF-8"?>
+<svg id="element_216" version="1.1" viewBox="0 0 108 108"
+       onclick="window.location.href='%link.s6%'"
+       onmouseover="MakeTransparent(evt)"
+       onmouseout="MakeOpaque(evt)"
+       ontouchstart="MakeTransparent(evt)"
+       ontouchend="MakeOpaque(evt)"
+       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient912" x1="56.5" x2="55" y1="104" y2="-59.2" gradientUnits="userSpaceOnUse">
+   <stop id="stop906" stop-color="#5fbd02" offset="0"/>
+   <stop id="stop908" stop-color="#dade94" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="myFilter1">
+   <feGaussianBlur stdDeviation="0.2"/>
+   <feColorMatrix type="saturate" values="1.2" />
+  </filter>
+  <symbol id="shome">
+   <path id="home" d="m8.37 88.6v16.9l1.15 1.21h12.6v-10.9h5.73v10.9h4.58l1.15-1.21v-16.9l-11.5-12.1c-1.15-1.21-1.15-1.21-2.3 0zm-8.03-1.21c-1.15 1.21 1.15 4.84 4.58 3.63h2.3v14.5c0 1.21 1.15 2.41 2.3 2.41h23c1.15 0 2.3-1.21 2.3-2.41v-14.5h2.3c3.43 1.21 5.73-2.41 4.58-3.63l-19.5-20.6c-1.15-0.989-1.15-0.999-2.3 0l-6.88 7.25v-2.41h-4.58v7.25z" 
+         fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width=".1"/>
+  </symbol>
+ </defs>
+ <rect id="rect6314" x="1" y="1" width="106" height="106" rx="5" ry="5" fill="#dade94"/>
+ <rect id="rect7" x="1" y="1" width="106" height="106" rx="5" ry="5" fill="url(#linearGradient912)" stroke="#ad4" stroke-width="2"/>
+ <text id="text6939" x="54" y="83" fill="#ffffff" font-family="Ubuntu" font-size="16px" font-weight="500" text-anchor="middle" 
+        filter="url(#myFilter1)" onclick="hideSVG()" 
+       onmouseout="hide(evt, 'object')" onmouseover="show(evt, 'object')">Система</text>
+ <use id="figura" transform="translate(33 -45)" width="100%" height="100%" xlink:href="#shome"/>
+
+<script type="text/ecmascript">
+  <![CDATA[
+    function MakeTransparent(evt) {
+      evt.target.setAttributeNS(null,"opacity","0.5");
+    }
+
+    function MakeOpaque(evt) {
+      evt.target.setAttributeNS(null,"opacity","1");
+    }
+  ]]>
+</script>
+</svg>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:9;a:29:{s:2:"ID";s:3:"221";s:5:"TITLE";s:11:"button_dop2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"50";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:178:"   <div class="okbitbr" onclick="location.href='%linkdop.s2%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Гостинная
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:10;a:29:{s:2:"ID";s:3:"222";s:5:"TITLE";s:11:"button_dop3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"95";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:174:"   <div class="okbitbr" onclick="location.href='%linkdop.s3%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Детская
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:11;a:29:{s:2:"ID";s:3:"223";s:5:"TITLE";s:11:"button_dop4";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"140";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:172:"   <div class="okbitbr" onclick="location.href='%linkdop.s4%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Балкон
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:12;a:29:{s:2:"ID";s:3:"224";s:5:"TITLE";s:11:"button_dop5";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"185";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:170:"   <div class="okbitbr" onclick="location.href='%linkdop.s5%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Кухня
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:13;a:29:{s:2:"ID";s:3:"225";s:5:"TITLE";s:11:"button_dop6";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"230";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:172:"   <div class="okbitbr" onclick="location.href='%linkdop.s6%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Ванная
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:14;a:29:{s:2:"ID";s:3:"226";s:5:"TITLE";s:11:"button_dop7";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"275";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"250";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:170:"   <div class="okbitbr" onclick="location.href='%linkdop.s7%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Схема
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:15;a:29:{s:2:"ID";s:3:"227";s:5:"TITLE";s:15:"button_dopRadio";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"485";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"250";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:184:"   <div class="okbitbr" onclick="location.href='%linkdop.s12%';" style="cursor: pointer;">
+       <div class="okbitbr_in">
+        Позвать Алису
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:16;a:29:{s:2:"ID";s:3:"233";s:5:"TITLE";s:10:"Схема";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:3:"965";s:6:"HEIGHT";s:3:"725";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"207";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:42383:"<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="b" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1221 931" version="1.1">
+ <rect id="rect7471-2-93-0" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="24.5" x="380" fill="#82c7d3"/>
+ <rect id="rect7471-2-0" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="416" x="380" fill="#2e32d9"/>
+ <rect id="rect7471-2-9" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="465" x="380" fill="#ca2222"/>
+ <g id="objectfire">
+  <path id="myRect" stroke-linejoin="round" d="m.999.964h379v464h49v49h-428z" stroke="#000" stroke-width="1.5" fill="#eaeaea"/>
+ </g>
+ <path id="workshop" style="paint-order:stroke markers fill" d="m40.9 541v149h199v-149z" onmouseout="this.style.stroke = '#00000'; this.style['stroke-width'] = 0; hide(evt, 'object')" fill-rule="evenodd" stroke="#000015" onmouseover="this.style.stroke = '#d9000'; this.style['stroke-width'] = 3; show(evt, 'object')" onclick="multi_toggle(['akvarium','tualet'])" stroke-width=".378" fill="#c0bba3"/>
+ <path id="garderob" d="m41.4 690h199v201l-199 .00002z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="peredvannoy" d="m771 276-.00081-80.1h145v80.1z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="kuhna" d="m916 26.1v250h270v-250z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" onfocusout='this.style.fill = "red";' onfocusin='this.style.fill = "green";' stroke="#000" onmousemove="" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" onclick="" stroke-width=".378" fill="#c0bba3"/>
+ <path id="bathroom" d="m776 35.9h135v155h-135z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="gostinnaja" d="m781 286v273h405l-.06-273z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="bedroom" d="m240 541v350l361-.0001.00006-350z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="kinderRom" d="m626 569h560l.037 322-560-.0002z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" onfocusout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" onfocusin="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="hall2" d="m626 161h145l-.004 398h-145z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="akvarium" d="m461 353v163h140v-163z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="hall" d="m461.67 26.662.0117 325.32h138.63l-.001-325.27z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width="0.378" fill="#c0bba3"/>
+ <path id="kladovka" d="m686 156h-60.3v-129l60.3-.0227z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="tualet" d="m691 35.8v120h79.9v-120z" onmouseout="this.style.stroke = '#0000000'; this.style['stroke-width'] = 0;" fill-rule="evenodd" stroke="#000" onmouseover="this.style.stroke = '#d900000'; this.style['stroke-width'] = 3;" stroke-width=".378" fill="#c0bba3"/>
+ <path id="path10660" d="m691 35.8v120h79.9v-120zm84.9.142v155h135v-155zm-150 120 .1 4.9h145l-.05 35.2h145l-.1-165h-230l-.0001 125z" stroke-opacity=".393" fill-rule="evenodd" fill-opacity=".315" stroke="#000" stroke-width="1px"/>
+ <path id="path10669" d="m626 891 560 .0002-.1-865-560 .211zm-585-350v350l560-.00010.00010-350zm520-514.98 40 .0072v490h-140v-490.03l10.95.02344v-25.05l-39.96-.0093-.0001 515-430.99.04-.01 415h1220v-930l-660 .03z" fill-rule="evenodd" stroke="#1e0c0c" fill="#968c60"/>
+ <path id="path10672" d="m626 559v10h560v-10h-405v-273l405-.1v-9.9h-415v283z" stroke-opacity=".393" fill-rule="evenodd" fill-opacity=".315" stroke="#000" stroke-width="1px"/>
+ <path id="rect10674" stroke-linejoin="round" style="paint-order:normal" d="m461 516h89v24h-89z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="rect10674-5" stroke-linejoin="round" style="paint-order:normal" d="m682 559h89v10h-89z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="rect10674-5-6" stroke-linejoin="round" style="paint-order:normal" d="m771 424v-89h9v89z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="hallDoor1" stroke-linejoin="round" style="paint-order:normal" d="m473.45 1.5234h86.057v5.777h-86.057z" stroke="#000" stroke-linecap="round" fill="#0089a3"/>
+ <path id="hallDoor2" stroke-linejoin="round" style="paint-order:normal" d="m473.45 19.744h86.057v5.777h-86.057z" stroke="#000" stroke-linecap="round" fill="#0089a3"/>
+ <path id="rect10674-9" stroke-linejoin="round" style="paint-order:normal" d="m625 163v89h-24v-89z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="rect10674-1" stroke-linejoin="round" style="paint-order:normal" d="m626 367v134h-24v-134z" fill-opacity=".315" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".1" display="block">
+  <title id="title960">Автоматика</title>
+ </path>
+ <path id="rect10674-5-2" stroke-linejoin="round" style="paint-order:normal" d="m706 156h64v4.9h-64z" stroke="#000" stroke-linecap="round" fill="none"/>S
+ <path id="rect10674-5-2-7" stroke-linejoin="round" style="paint-order:normal" d="m780 191h64v4.96h-64z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="rect10674-5-2-0" stroke-linejoin="round" style="paint-order:normal" d="m627 156h59v4.9h-59z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="rect10786" stroke-linejoin="round" style="paint-order:normal" d="m263 907h194v24h-194z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="rect10786-6" stroke-linejoin="round" style="paint-order:normal" d="m25 627v194h-24v-194z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="kidroomWin1" stroke-linejoin="round" style="paint-order:normal" d="m778 907h194v24h-194z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="kidroomWin2" stroke-linejoin="round" style="paint-order:normal" d="m1200 810v-194h24v194z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="smallroomWin" stroke-linejoin="round" style="paint-order:normal" d="m1200 479v-154h24v154z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="kitchenWin" stroke-linejoin="round" style="paint-order:normal" d="m1191.7 235.3v-154h24v154z" stroke="#000" stroke-linecap="round" fill="none"/>
+ <rect id="stiralka" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="57.7" width="57.7" stroke="#000" stroke-linecap="round" y="72.2" x="627" stroke-width=".3">
+  <title id="title958">Стиральная машина</title>
+ </rect>
+ <rect id="kitchenStol1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" fill-opacity="0.196" height="120" width="59.7" stroke="#000" stroke-linecap="round" y="26.762" x="916.32" stroke-width="0.3"/>
+ <rect id="kitchenStol2" stroke-linejoin="round" style="paint-order:normal" stroke-opacity="0.958" fill-rule="evenodd" fill-opacity="0.196" transform="rotate(90)" height="209" width="59.7" stroke="#000" stroke-linecap="round" y="-1185.3" x="26.743" stroke-width="0.3"/>
+ <rect id="holodilnik2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" fill-opacity="0.196" height="57.7" width="57.7" stroke="#000" stroke-linecap="round" y="147.12" x="918.34" stroke-width="0.3"/>
+ <rect id="kitchenPlita" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="34.3" width="26.3" stroke="#000" stroke-linecap="round" y="39.2" x="1090" stroke-width=".3" fill="#900000"/>
+ <rect id="kitchenRakovina" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="44.5" width="37.5" stroke="#000" stroke-linecap="round" y="91.2" x="927" stroke-width=".3" fill="#900000"/>
+ <rect id="kitchenStol3" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" fill-opacity="0.22" height="142" width="78.8" stroke="#000" stroke-linecap="round" y="132.53" x="1105.8" stroke-width="0.3"/>
+ <rect id="vanna" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="152" width="66.2" stroke="#000" stroke-linecap="round" y="37.3" x="843" stroke-width=".3" fill="#900000"/>
+ <rect id="rakovina" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="35.1" width="58.7" stroke="#000" stroke-linecap="round" y="37.1" x="783" stroke-width=".3" fill="#900000"/>
+ <rect id="unitaz" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="56.5" width="36" stroke="#000" stroke-linecap="round" y="55.8" x="710" stroke-width=".3" fill="#900000"/>
+ <rect id="smalroomShkaf1" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="37" width="50" stroke="#000" stroke-linecap="round" y="287" x="782" stroke-width=".3" fill="#900000"/>
+ <rect id="smalroomShkaf2" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="37" width="50" stroke="#000" stroke-linecap="round" y="287" x="832" stroke-width=".3" fill="#900000"/>
+ <rect id="smalroomShkaf3" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="60" width="100" stroke="#000" stroke-linecap="round" y="498" x="782" stroke-width=".3" fill="#900000"/>
+ <rect id="smalroomShkaf4" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="60" width="50" stroke="#000" stroke-linecap="round" y="498" x="883" stroke-width=".3" fill="#900000"/>
+ <path id="smalroomDivan" stroke-linejoin="round" style="paint-order:normal" d="m1020 353.15h82.3v144h-82.3zm84.7 0h71.3v144h-71.3zm-84.7-58.15h156v55.7h-156zm157.56 0h6.44v202h-6.44zm-157.6-7h164v4.93h-164z" fill-rule="evenodd" fill-opacity="0.196" stroke="#000" stroke-linecap="round" stroke-width="0.3" fill="#900000"/>
+ <rect id="refregirator" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="57.7" width="57.7" stroke="#000" stroke-linecap="round" y="368" x="600" stroke-width=".3">
+  <title id="title956">Холодильник</title>
+  <desc id="desc954">Шкаф с холодильный</desc>
+ </rect>
+ <rect id="hall2Shkaf" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="59.7" width="49.7" stroke="#000" stroke-linecap="round" y="499" x="627" stroke-width=".3" fill="#900000"/>
+ <rect id="shkafAkvarium" stroke-linejoin="round" onfocusin="focusFunction(this.id)" style="paint-order:normal" fill-opacity=".196" onfocusout="blurFunction(this.id)" fill-rule="evenodd" height="60.6" width="132" stroke="#000" stroke-linecap="round" onclick='callMethod("Relay02.switch");return false;' y="353" x="464" stroke-width=".3" fill="#900000">
+  <desc id="desc88">Шкаф с аквариумом</desc>
+  <title id="title952">Аквариум</title>
+ </rect>
+ <rect id="kidroomShkaf1" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(-90)" height="37" width="50" stroke="#000" stroke-linecap="round" y="627" x="-619" stroke-width=".3" fill="#900000"/>
+ <rect id="kidroomShkaf2" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(-90)" height="37" width="50" stroke="#000" stroke-linecap="round" y="627" x="-669" stroke-width=".3" fill="#900000"/>
+ <rect id="kidroomShkaf5" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" fill-opacity="0.196" height="60" width="50" stroke="#000" stroke-linecap="round" y="829.79" x="1134.8" stroke-width="0.3" fill="#900000"/>
+ <rect id="kidroomShkaf4" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" fill-opacity="0.196" height="60" width="100" stroke="#000" stroke-linecap="round" y="829.79" x="1034.5" stroke-width="0.3" fill="#900000"/>
+ <rect id="rect881-1-3" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(90)" height="60" width="100" stroke="#000" stroke-linecap="round" y="-102" x="542" stroke-width=".3" fill="#900000"/>
+ <rect id="rect881-1-3-2" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(90)" height="60" width="100" stroke="#000" stroke-linecap="round" y="-240" x="542" stroke-width=".3" fill="#900000"/>
+ <rect id="rect881-1-3-0" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(90)" height="60" width="100" stroke="#000" stroke-linecap="round" y="-240" x="643" stroke-width=".3" fill="#900000"/>
+ <rect id="rect881-1-3-6" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(90)" height="60" width="100" stroke="#000" stroke-linecap="round" y="-102" x="690" stroke-width=".3" fill="#900000"/>
+ <rect id="rect881-1-3-1" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(90)" height="60" width="100" stroke="#000" stroke-linecap="round" y="-102" x="791" stroke-width=".3" fill="#900000"/>
+ <rect id="rect881-1-3-5" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(90)" height="60" width="100" stroke="#000" stroke-linecap="round" y="-240" x="743" stroke-width=".3" fill="#900000"/>
+ <rect id="rect864-2-5" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(-90)" height="37" width="50" stroke="#000" stroke-linecap="round" y="563" x="-592" stroke-width=".3" fill="#900000"/>
+ <rect id="rect864-2-4" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(-90)" height="37" width="50" stroke="#000" stroke-linecap="round" y="563" x="-643" stroke-width=".3" fill="#900000"/>
+ <rect id="rect864-2-7" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(-90)" height="37" width="50" stroke="#000" stroke-linecap="round" y="563" x="-891" stroke-width=".3" fill="#900000"/>
+ <rect id="rect864-2-6" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" transform="rotate(-90)" height="37" width="50" stroke="#000" stroke-linecap="round" y="563" x="-840" stroke-width=".3" fill="#900000"/>
+ <rect id="rect1905" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="221" width="130" stroke="#000" stroke-linecap="round" y="669" x="627" stroke-width=".3" fill="#ffd94d"/>
+ <rect id="rect1907" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".196" fill-rule="evenodd" height="72.1" width="188" stroke="#000" stroke-linecap="round" y="570" x="812" stroke-width=".3" fill="#ffd94d"/>
+ <path id="kladovkalampa-7" stroke-linejoin="round" style="paint-order:normal" d="m54.4 666a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" fill-opacity=".784" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".3" fill="#63d94d"/>
+ <g id="lhim">
+  <path id="workshopHim" style="paint-order:normal" d="m169 598a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85"/>
+  <path id="kladovkalampa-6-5" style="paint-order:normal" d="m836 26.1a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85"/>
+  <path id="kladovkalampa-6-3" style="paint-order:normal" d="m1e3 26a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85"/>
+  <path id="kladovkalampa-6-56" style="paint-order:normal" d="m771 63a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85"/>
+ </g>
+ <path id="kladovkalampa-7-2" stroke-linejoin="round" style="paint-order:normal" d="m771 49.5a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" fill-opacity=".784" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".3" fill="#63d94d"/>
+ <g id="llamp">
+  <path id="kuhnjalampa" stroke-linejoin="round" style="paint-order:normal" d="m1090 159a19.5 19.5 0 0 1 -19.5 19.5 19.5 19.5 0 0 1 -19.5 -19.5 19.5 19.5 0 0 1 19.5 -19.5 19.5 19.5 0 0 1 19.5 19.5" 
+        fill-opacity=".784" fill-rule="evenodd" stroke="#e6dc32" stroke-linecap="round" fill="#ffd94d"/>  
+  <path id="bedroomLamp" style="paint-order:normal" d="m347 700a19.5 19.5 0 0 1 -19.5 19.5 19.5 19.5 0 0 1 -19.5 -19.5 19.5 19.5 0 0 1 19.5 -19.5 19.5 19.5 0 0 1 19.5 19.5" fill-opacity=".784" stroke="#e6dc32" stroke-linecap="round" fill="#ffd94d"/>
+  <path id="kidroomLamp" style="paint-order:normal" d="m960 716a19.5 19.5 0 0 1 -19.5 19.5 19.5 19.5 0 0 1 -19.5 -19.5 19.5 19.5 0 0 1 19.5 -19.5 19.5 19.5 0 0 1 19.5 19.5" stroke="#e6dc32" stroke-linecap="round" fill="#f1d25f"/>
+  <path id="smalroomLamp" style="paint-order:normal" d="m1010 387a19.5 19.5 0 0 1 -19.5 19.5 19.5 19.5 0 0 1 -19.5 -19.5 19.5 19.5 0 0 1 19.5 -19.5 19.5 19.5 0 0 1 19.5 19.5" fill-opacity=".784" stroke="#e6dc32" stroke-linecap="round" fill="#ffd94d"/>
+  <path id="halllampa" style="paint-order:normal" d="m577 41.3a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" fill-opacity=".784" stroke="#000" stroke-linecap="round" stroke-width=".3" fill="#ffd94d"/>
+  <path id="akvaroomLamp" style="paint-order:normal" d="m555 438a19.5 19.5 0 0 1 -19.5 19.5 19.5 19.5 0 0 1 -19.5 -19.5 19.5 19.5 0 0 1 19.5 -19.5 19.5 19.5 0 0 1 19.5 19.5" fill-opacity=".784" stroke="#e6dc32" stroke-linecap="round" fill="#ffd94d"/>
+  <path id="vannalampa" style="paint-order:normal" d="m786 133a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" fill-opacity=".784" stroke="#000" stroke-linecap="round" stroke-width=".3" fill="#ffd94d"/>
+  <path id="tualetlampa" style="paint-order:normal" d="m771 133a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" fill-opacity=".784" stroke="#000" stroke-linecap="round" stroke-width=".3" fill="#ffd94d"/>
+  <path id="kladovkaLampa" style="paint-order:normal" d="m662 151a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" fill-opacity=".784" stroke="#000" stroke-linecap="round" stroke-width=".3" fill="#ffd94d"/>
+  <rect id="hallLed" display='%Dimmer02.status|"none;inline;"%' opacity=".99" style="paint-order:normal" fill-opacity=".784" stroke-dashoffset=".8" rx="8.3" ry="2.17" height="250" width="4.9" stroke="#000" onclick='callMethod("Dimmer02.switch");return false;' y="36.3" x="543" stroke-width=".1" fill="#fff700"/>
+  
+  
+  <rect id="hall2Led" opacity=".99" style="paint-order:normal" fill-opacity=".784" stroke-dashoffset=".8" rx="8.3" ry="2.17" height="380" width="4.9" stroke="#000" y="170" x="709" stroke-width=".1" fill="#ff0"/>
+  <rect id="tualetLed" display='%Relay02.status|"none;inline;"%' opacity=".99" style="paint-order:normal" fill-opacity=".784" stroke-dashoffset=".8" rx="8.3" ry="2.17" height="110" width="4.9" stroke="#000" onclick='callMethod("Relay02.switch");return false;' y="40.9" x="726" stroke-width=".1" fill="#ff0"/>
+  <rect id="bedroomLed2" display='%Relay01.status|"none;inline;"%' opacity=".99" style="paint-order:normal" fill-opacity=".524" stroke-dashoffset=".8" rx="8.3" ry="2.17" height="250" width="4.9" stroke="#000" onclick='callMethod("Relay01.switch");return false;' y="552" x="591" stroke-width=".1" fill="#ff0"/>
+  <rect id="bedroomLed1" visibility='%Relay01.status|"hidden;visible;"%' opacity=".99" ry="2.17" style="paint-order:normal" fill-opacity=".524" stroke-dashoffset=".8" rx="8.3" transform="rotate(90)" height="314" width="4.9" stroke="#000" onclick='callMethod("Relay01.switch");return false;' y="-582" x="552" stroke-width=".1" fill="#ff0"/>
+  <rect id="bedroomLed3" display='%Relay01.status|"none;inline;"%' opacity=".99" style="paint-order:normal" fill-opacity=".524" stroke-dashoffset=".8" rx="8.3" ry="2.17" height="250" width="4.9" stroke="#000" onmouseover="" onclick='callMethod("Relay01.switch");return false;' y="552" x="253" stroke-width=".1" fill="#ff0"/>
+  <rect id="bedroomLed4" display='%Relay01.status|"none;inline;"%' opacity=".99" ry="2.17" style="paint-order:normal" fill-opacity=".524" stroke-dashoffset=".8" rx="8.3" transform="rotate(90)" height="314" width="4.9" stroke="#000" onclick='callMethod("Relay01.switch");return false;' y="-583" x="796" stroke-width=".1" fill="#ff0"/>
+  <path id="workshopLampa" display='%Relay03.status|"none;inline;"%' style="paint-order:normal" d="m158 576a19.5 19.5 0 0 1 -19.5 19.5 19.5 19.5 0 0 1 -19.5 -19.5 19.5 19.5 0 0 1 19.5 -19.5 19.5 19.5 0 0 1 19.5 19.5" fill-opacity=".784" stroke="#e6dc32" stroke-linecap="round" onclick='callMethod("Relay03.switch");return false;' fill="#ffd94d"/>
+  <rect id="kitchenLed1" opacity=".99" style="paint-order:normal" fill-opacity=".784" stroke-dashoffset=".8" rx="8.3" ry="2.17" height="98.3" width="4.9" stroke="#000" y="38.4" x="921" stroke-width=".1" fill="#ff0"/>
+  <rect id="kitchenLed2" opacity=".99" ry="2.17" style="paint-order:normal" fill-opacity=".784" stroke-dashoffset=".8" rx="8.3" transform="rotate(90)" height="110" width="4.9" stroke="#000" y="-1040" x="38" stroke-width=".1" fill="#ff0"/>
+ </g>
+ <g id="los">
+  <path id="hallSmk2" style="paint-order:normal" d="m558.07 25.521a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width="0.3" fill="#ff094d">
+   <desc id="hallsmk2desc">СМК прихожая</desc>
+   <title id="hallsmk2title">Прихожая СМК</title>
+  </path>
+  <path id="hallSmk1" style="paint-order:normal" d="m558.07 7.3004a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width="0.3" fill="#ff1d4d"/>
+  <path id="hallPir" display='%Motion04.status|"none;inline;"%' style="paint-order:normal" d="m540 337a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" onclick="hideSVG(this.id)" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="tualetPir" display='%Motion02.status|"none;inline;"%' style="paint-order:normal" d="m743 46.1a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" onclick="hideSVG('objectfire')" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="bedroomPir2" style="paint-order:normal" d="m240 690a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="workshopPir" display='%Motion03.status|"none;inline;"%' style="paint-order:normal" d="m133 546a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="kitchenPir1" style="paint-order:normal" d="m1180 86.6a9.85 9.85 0 0 1 -9.85 9.85 9.85 9.85 0 0 1 -9.85 -9.85 9.85 9.85 0 0 1 9.85 -9.85 9.85 9.85 0 0 1 9.85 9.85" stroke="#c86464" fill="#ff1d4d"/>
+  <path id="vannaPir" style="paint-order:normal" d="m838.1 183.95a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#c86464" stroke-width="0.3" fill="#ff1d4d"/>
+  <path id="kladovkaSmk" style="paint-order:normal" d="m686 156a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="tualetSmk" style="paint-order:normal" d="m715 156a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="hall2Pir1" style="paint-order:normal" d="m756 172a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="bedroomSmk" style="paint-order:normal" d="m551 528a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="workshopSmk" style="paint-order:normal" d="m180 690a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="garderobPir" style="paint-order:normal" d="m112 886a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="bedroomPir1" style="paint-order:normal" d="m601 690a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="hall2Pir2" style="paint-order:normal" d="m687 548a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="kidroomSmk" style="paint-order:normal" d="m771 564a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="bedroomWinSmk1" style="paint-order:normal" d="m322 919a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="bedroomWinSmk2" style="paint-order:normal" d="m365 919a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+  <path id="kitchenPir2" style="paint-order:normal" d="m926 31.7a4.85 4.85 0 0 1 -4.85 4.85 4.85 4.85 0 0 1 -4.85 -4.85 4.85 4.85 0 0 1 4.85 -4.85 4.85 4.85 0 0 1 4.85 4.85" stroke="#000" stroke-width=".3" fill="#ff1d4d"/>
+ </g>
+ <g id="power">
+ <rect id="kladovkaPower1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="26.3" x="630" stroke-width=".3" fill="#006e00"/>
+ <rect id="kladovkaPower2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="26.3" x="641" stroke-width=".3" fill="#006e00"/>   
+ <rect id="shkafAkvariumpower1" stroke-linejoin="round" style="paint-order:normal" onmouseout="this.style.stroke = '#000'; this.style['stroke-width'] = 0.3;" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" onmouseover="this.style.stroke = 'red'; this.style['stroke-width'] = 2;" y="353" x="550" stroke-width=".3" fill="#006e00"/>
+ <rect id="shkafAkvariumpower2" stroke-linejoin="round" style="paint-order:normal" onmouseout="this.style.stroke = '#000'; this.style['stroke-width'] = 0.3;" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" onmouseover="this.style.stroke = 'red'; this.style['stroke-width'] = 2;" y="353" x="560.6" stroke-width=".3" fill="#006e00"/>
+ <rect id="shkafAkvariumpower3" stroke-linejoin="round" style="paint-order:normal" onmouseout="this.style.stroke = '#000'; this.style['stroke-width'] = 0.3;" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" onmouseover="this.style.stroke = 'red'; this.style['stroke-width'] = 2;" y="353.04" x="571.17" stroke-width="0.3" fill="#006e00"/>
+ <rect id="shkafAkvariumpower4" stroke-linejoin="round" style="paint-order:normal" onmouseout="this.style.stroke = '#000'; this.style['stroke-width'] = 0.3;" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" onmouseover="this.style.stroke = 'red'; this.style['stroke-width'] = 2;" y="353.04" x="581.81" stroke-width="0.3" fill="#006e00"/>
+ <rect id="kitchenPower5" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="271" x="1070" stroke-width=".3" fill="#006e00"/>
+ <rect id="kitchenPower6" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="271" x="1080" stroke-width=".3" fill="#006e00"/>
+ <rect id="kitchenPower3" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="20.9" x="1070" stroke-width=".3" fill="#006e00"/>
+ <rect id="kitchenPower4" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="20.9" x="1080" stroke-width=".3" fill="#006e00"/>
+ <rect id="kitchenPower1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="21.3" x="1020" stroke-width=".3" fill="#006e00"/>
+ <rect id="kitchenPower2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="19.7" width="19.7" stroke="#000" stroke-linecap="round" y="16.9" x="1030" stroke-width=".3" fill="#006e00"/>
+ <rect id="kidroomPower2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="565" x="1030" stroke-width=".3" fill="#006e00"/>
+ <rect id="smalroomPower1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="554" x="1030" stroke-width=".3" fill="#006e00"/>
+ <rect id="bedroomPower2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="536" x="151" stroke-width=".3" fill="#006e00"/>
+ <rect id="bedroomPower1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="536" x="439" stroke-width=".3" fill="#006e00"/>
+ <rect id="hall2Power1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="265" x="627" stroke-width=".3" fill="#006e00"/>
+ </g>
+
+ <g id="swith">
+ <rect id="hall2Swith1-2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="260" x="627" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="hall2Swith1-1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="255" x="627" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="kithenSwith1-2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="189" x="917" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="kithenSwith1-1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="184" x="917" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="hall2Swith2-2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="173" x="761" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="hall2Swith2-1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="168" x="761" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="hall2Swith2-3" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="179" x="761" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="smalroomSwith1-2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="436" x="776" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="smalroomSwith1-1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="5" width="10" stroke="#000" stroke-linecap="round" y="431" x="776" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="kidroomSwith1-2" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" transform="rotate(90)" height="5" width="10" stroke="#000" stroke-linecap="round" y="-796" x="570" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="kidroomSwith1-1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" transform="rotate(90)" height="5" width="10" stroke="#000" stroke-linecap="round" y="-790" x="570" stroke-width=".3" fill="#fcd74c"/>
+ <rect id="bedroomSwith1" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="9.3" width="9.3" stroke="#000" stroke-linecap="round" onclick='callMethod("Relay01.switch");return false;' y="536.37" x="428.01" fill="#fcd74c"/>
+ <rect id="hallSwith" stroke-linejoin="round" style="paint-order:normal" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="21" x="573" stroke-width=".3" fill="#ffda4f"/>
+ <rect id="zvonok2" stroke-linejoin="round" style="paint-order:normal" fill-opacity=".784" fill-rule="evenodd" height="10" width="10" stroke="#000" stroke-linecap="round" y="1.06" x="568" stroke-width=".3" fill="#900000"/>
+
+  
+ </g>
+ <script id="script157" type="text/javascript"><![CDATA[
+function show(evt, node)
+{
+        var svgdoc = evt.target.ownerDocument;
+        var obj = svgdoc.getElementById(node);
+        obj.setAttribute("display", "inline");
+}
+function hide(evt, node)
+{
+        var svgdoc = evt.target.ownerDocument;
+        var obj = svgdoc.getElementById(node);
+        obj.setAttribute("display" , "none");
+}
+function hideSVG(x) {
+  var style = document.getElementById(x).style.display;
+  if(style === "none")
+    document.getElementById(x).style.display = "block";
+  else
+    document.getElementById(x).style.display = "none";
+  //or to hide the all svg
+  //document.getElementById("mySvg").style.display = "none";
+}
+// Focus = Changes the background color of input to yellow
+function focusFunction(x) {
+    document.getElementById(x).style.fill = "yellow";
+}
+// No focus = Changes the background color of input to red
+function blurFunction(x) {
+    document.getElementById(x).style.fill = "";
+}
+]]></script>
+ <text id="text6939" font-size="15px" onmouseout="hide(evt, 'object')" text-anchor="middle" onmouseover="show(evt, 'object')" onclick="hideSVG()" y="20.566923" x="100.51001" font-family="Arial" fill="#000000">Mouse over the text here</text>
+ <g id="object" display="none" transform="translate(101 75.6)">
+  <rect id="rect6941" height="50" width="200" y="-25" x="-100" fill="#ff0"/>
+  <text id="text6943" font-size="12px" font-family="Arial" text-anchor="middle" fill="#000000">And see the text on yellow box</text>
+ </g>
+ <path id="halllampa-7-61-6" stroke-linejoin="round" style="paint-order:normal" d="m420 49a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-opacity=".784" fill-rule="evenodd" stroke="#c86464" stroke-linecap="round" onclick="hide(evt, 'object')" stroke-width=".3" fill="#ff1d4d"/>
+ <path id="halllampa-7-61-7" stroke-linejoin="round" style="paint-order:normal" d="m420 14.1a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-opacity=".784" fill-rule="evenodd" stroke="#c86464" stroke-linecap="round" onclick="show(evt, 'object')" stroke-width=".3" fill="#ff1d4d"/>
+ <path id="halllampa-7-61-5" stroke-linejoin="round" style="paint-order:normal" d="m420 489a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-opacity=".98" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" fill="#ff1d4d"/>
+ <path id="halllampa-7-61-3" stroke-linejoin="round" style="paint-order:normal" d="m420 489a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" onclick="hide(evt, 'los'); show(evt, 'halllampa-7-61-56'); hide(evt, 'halllampa-7-61-3')" stroke-width=".3" fill="#ff1d4d"/>
+ <path id="halllampa-7-61-56" stroke-linejoin="round" style="paint-order:normal" d="m420 489a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-rule="evenodd" onmouseup="" onmousedown="" stroke="#fffffe" stroke-linecap="round" onmouseover="" onclick="show(evt, 'los', 'halllampa-7-61-3'); hide(evt, 'halllampa-7-61-56'); show(evt, 'halllampa-7-61-3');" stroke-width=".1" fill="#ff1d4d"/>
+ <rect id="rect7471-2" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="171" x="380" fill="#76d742"/>
+ <rect id="rect7471-2-1" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="367" x="380" fill="#ffd94d"/>
+ <rect id="rect7471-2-2" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="269" x="380" fill="#4e1f7d"/>
+ <rect id="rect7471-2-7" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="220" x="380" fill="#42dabe"/>
+ <rect id="rect7471-2-93" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="122" x="380" fill="#723bd7"/>
+ <rect id="rect7471-2-93-6" opacity=".99" stroke-linejoin="round" style="paint-order:normal" stroke-dashoffset=".8" height="49" width="49" stroke="#f00" stroke-linecap="round" y="73.5" x="380" fill="#2bbe00"/>
+ <path id="battlh1" stroke-linejoin="round" style="paint-order:normal" d="m420 440a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-rule="evenodd" stroke="#000" stroke-linecap="round" fill="#0099dc"/>
+ <path id="battlh2" stroke-linejoin="round" style="paint-order:normal" d="m420 440a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-rule="evenodd" stroke="#000" stroke-linecap="round" onclick="hide(evt, 'lhim'); show(evt, 'battlh3'); hide(evt, 'battlh2')" fill="#0099dc"/>
+ <path id="battlh3" stroke-linejoin="round" style="paint-order:normal" d="m420 440a14.8 14.8 0 0 1 -14.8 14.8 14.8 14.8 0 0 1 -14.8 -14.8 14.8 14.8 0 0 1 14.8 -14.8 14.8 14.8 0 0 1 14.8 14.8" fill-rule="evenodd" stroke="#000" stroke-linecap="round" onclick="show(evt, 'lhim'); hide(evt, 'battlh3'); show(evt, 'battlh2');" fill="#0099dc"/>
+ <path id="battllamp1" stroke-linejoin="round" style="paint-order:normal" d="m420 392a14.9 14.8 0 0 1 -14.9 14.8 14.9 14.8 0 0 1 -14.9 -14.8 14.9 14.8 0 0 1 14.9 -14.9 14.9 14.8 0 0 1 14.9 14.9" fill-rule="evenodd" stroke="#e6dc32" stroke-linecap="round" fill="#ffd94d"/>
+ <path id="battllamp2" stroke-linejoin="round" style="paint-order:normal" d="m420 392a14.9 14.8 0 0 1 -14.9 14.8 14.9 14.8 0 0 1 -14.9 -14.8 14.9 14.8 0 0 1 14.9 -14.9 14.9 14.8 0 0 1 14.9 14.9" fill-rule="evenodd" stroke="#e6dc32" stroke-linecap="round" onclick="hide(evt, 'llamp'); show(evt, 'battllamp3'); hide(evt, 'battllamp2')" fill="#ffd94d"/>
+ <path id="battllamp3" stroke-linejoin="round" style="paint-order:normal" d="m420 392a14.9 14.8 0 0 1 -14.9 14.8 14.9 14.8 0 0 1 -14.9 -14.8 14.9 14.8 0 0 1 14.9 -14.9 14.9 14.8 0 0 1 14.9 14.9" fill-rule="evenodd" stroke="#e6dc32" stroke-linecap="round" onclick="show(evt, 'llamp'); hide(evt, 'battllamp3'); show(evt, 'battllamp2');" fill="#ffd94d"/>
+</svg>
+<!--<script language="javascript">
+var tm;
+tm=setTimeout('window.location.href=window.location.href;', 60*1000);
+</script>  -->";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:17;a:29:{s:2:"ID";s:3:"250";s:5:"TITLE";s:12:"Кнопка";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"100";s:4:"LEFT";s:3:"840";s:5:"WIDTH";s:2:"12";s:6:"HEIGHT";s:2:"12";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"999";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:1582:"<a href="app://home">
+   <div class="23433545b1456">
+<svg id="a" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <path id="b" d="m8.85 5.25h14.4c3.66 0 6.61 3.27 6.61 7.33v10c0 4.06-2.95 7.33-6.61 7.33h-14.4c-3.66 0-6.61-3.27-6.61-7.33v-10c0-4.06 2.95-7.33 6.61-7.33zm-2.17-2.01h18.8c3.66 0 6.61 3.27 6.61 7.33v14c0 4.06-2.95 7.33-6.61 7.33h-18.8c-3.66 0-6.61-3.27-6.61-7.33v-14c0-4.06 2.95-7.33 6.61-7.33z" 
+       fill-rule="evenodd" style="paint-order:normal"/>
+ <path id="d" d="m2.32 23.7 0.0645-12.7c0.992-3.79 2.94-4.97 5.07-5.64l2.88-0.162c1.64-1.33 3.25-2.71 5.84-2.57 2.07-0.179 4.02 0.901 5.91 2.64l2.85 0.153c2.29 1.02 4.37 2.36 4.89 6.08l0.0048 12c-0.681 3.89-2.81 5.65-5.69 6.29l-15.3 0.0606c-3.25-0.285-5.65-1.97-6.53-6.19z" 
+       fill="red" fill-rule="evenodd" stroke="#fff" stroke-opacity=".929" stroke-width=".1"/>
+ <path id="f" d="m24 10.3a7.81 7.63 0 0 1 -7.81 7.63 7.81 7.63 0 0 1 -7.81 -7.63 7.81 7.63 0 0 1 7.81 -7.63 7.81 7.63 0 0 1 7.81 7.63zm2.5 1.37a10.3 11.7 0 0 1 -10.3 11.7 10.3 11.7 0 0 1 -10.3 -11.7 10.3 11.7 0 0 1 10.3 -11.7 10.3 11.7 0 0 1 10.3 11.7z" 
+       fill-rule="evenodd" style="paint-order:normal"/>
+ <path id="c" d="m2.24 22.6c0.872 1.36 1.77 3.18 3.88 3.27l20.4-0.144c1.25 0.14 2.36-1.12 3.39-3.12 0.394 2.19-1.31 4.4-2.88 4.38l-21.3 0.26c-1.13 0.105-3.72-0.701-3.46-4.64z" 
+       fill-rule="evenodd" stroke="#000" stroke-width=".1"/>
+</svg>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:18;a:29:{s:2:"ID";s:3:"260";s:5:"TITLE";s:8:"КамР";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"180";s:4:"LEFT";s:3:"400";s:5:"WIDTH";s:2:"20";s:6:"HEIGHT";s:2:"20";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:2264:".button-widget {
+    cursor:pointer;
+}
+.button-text {
+    padding-top:10px;
+    vertical-align:middle;
+    white-space: nowrap;
+}
+.button-light {
+    border-radius:50%;
+    width:22px;
+    height:22px;
+    border:2px solid #0b05ff;
+    margin-top:5px;
+    float:left;
+    margin-right:10px;
+}
+.button-light.on {
+    background-color: #000bff;
+    box-shadow: 0px 0px 15px #929aff;
+    border-color:#FDF1DF;
+}
+
+.controller-widget {
+}
+.controller-text {
+    padding-top:10px;
+    cursor:pointer;
+    vertical-align:middle;
+}
+.controller-light {
+    border-radius:50%;
+    width:22px;
+    height:22px;
+    border:2px solid #3d3d3d;
+    margin-top:5px;
+    float:left;
+    margin-right:10px;
+}
+.controller-light.on {
+    background-color:#FFC773;
+    box-shadow: 0px 0px 15px #FF9900;
+    border-color:#FDF1DF;
+}
+
+.temp-widget {
+}
+.temp-value {
+    font-size:42px;
+    text-align:center;
+}
+.widget .temp-value {
+    color:white;
+}
+.temp-description {
+    text-align:center;
+    font-size:11px;
+    margin-top:-4px;
+}
+.widget .temp-description {
+    color:white;
+}
+
+.openclose-widget {
+}
+.openclose-text {
+    padding-top:10px;
+    cursor:pointer;
+    vertical-align:middle;
+    white-space: nowrap;
+}
+.openclose-light {
+    border-radius:50%;
+    width:22px;
+    height:22px;
+    border:2px solid #3d3d3d;
+    margin-top:5px;
+    float:left;
+    margin-right:10px;
+}
+.openclose-light.on {
+    background-color:#C7FF73;
+    box-shadow: 0px 0px 15px #99FF00;
+    border-color:#FDF1DF;
+}
+
+.motion-widget {
+}
+.motion-text {
+    padding-top:10px;
+    cursor:pointer;
+    vertical-align:middle;
+    white-space: nowrap;
+}
+.motion-light {
+    border-radius:50%;
+    width:22px;
+    height:22px;
+    border:2px solid #3d3d3d;
+    margin-top:5px;
+    float:left;
+    margin-right:10px;
+}
+.motion-light.on {
+    background-color: #ff1e00;
+    box-shadow: 0px 0px 15px #ff727e;
+    border-color:#FDF1DF;
+}
+
+.hum-widget {
+ }
+.hum-value {
+    font-size:42px;
+    text-align:center;
+}
+.widget .hum-value {
+    color:white;
+}
+.hum-description {
+    text-align:center;
+    font-size:11px;
+    margin-top:-4px;
+}
+.widget .hum-description {
+    color:white;
+}
+";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"999";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:733:"<!-- jQuery Modal
+<script src="/3rdparty/modal/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="/3rdparty/modal/jquery.modal.min.css" /> -->
+
+<div id="device2">
+<div class="controller-widget">
+    <div class="controller-light on"></div>
+<!-- <a href="#ex1" rel="modal:open"> -->
+    <div class="controller-text" style="display:block;cursor:pointer" onclick="callMethod();">КамР</div>
+    <div class="controller-text" style="display:none;cursor:pointer" onclick="callMethod();">КамР2</div>
+<!-- </a>  -->
+<!-- Modal HTML embedded directly into document
+<div id="ex1" class="modal">
+  <div>Thanks for clicking. That felt good.</div>
+  <a href="#" rel="modal:close">Close</a>
+</div> -->
+</div>
+</div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:3:"362";s:11:"WINDOW_POSX";s:3:"214";s:11:"WINDOW_POSY";s:3:"152";s:12:"WINDOW_WIDTH";s:3:"541";s:13:"WINDOW_HEIGHT";s:3:"401";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:19;a:29:{s:2:"ID";s:3:"269";s:5:"TITLE";s:2:"b3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"390";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"250";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:2:"80";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:422:"<script>
+  function go(addr) {
+    window.open(addr, "MyWin", "left=220px, top=345px, menubar=no, toolbar=no, location=no, status=no, resizable=yes, scrollbars=no, width=500, height=278");
+  }
+ MyWin.close()
+</script>
+   <div class="okbitbr" onclick="go('http://myrusakov.ru'); return false;" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          Кликните здесь
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:20;a:29:{s:2:"ID";s:3:"468";s:5:"TITLE";s:16:"протечка";s:4:"TYPE";s:7:"warning";s:3:"TOP";s:2:"80";s:4:"LEFT";s:4:"1100";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"200";s:9:"CSS_STYLE";s:5:"water";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:6:"Leak01";s:15:"LINKED_PROPERTY";s:6:"status";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"1";s:16:"APPEAR_ANIMATION";s:1:"5";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:29:"протечка<br/>detected";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:6:"Leak01";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";N;s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";N;s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:21;a:29:{s:2:"ID";s:3:"270";s:5:"TITLE";s:30:"Вытяжка на кухне";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"15";s:4:"LEFT";s:3:"858";s:5:"WIDTH";s:2:"25";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"207";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:2745:"<svg id="kithen_hood" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" title="вытяжка">
+ <path id="a" d="m31.5 21.1c0 0.331-0.277 0.6-0.62 0.6h-29.8c-0.342 0-0.62-0.269-0.62-0.6v-2.46c0-0.331 0.277-0.601 0.62-0.601h29.8c0.342 0 0.62 0.269 0.62 0.601z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+ <path id="d" d="m7.68 18.1c-0.201 1.1e-4 -0.362-0.158-0.362-0.352l5.86-5.78v-11.1c0-0.195 0.163-0.352 0.362-0.352h5.09c0.199 0 0.364 0.158 0.364 0.352v11.1l5.86 5.78c0 0.195-0.163 0.352-0.364 0.352z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+ <path id="b" d="m15.8 25.2c0.399 0.345 0.824 0.82 0.868 1.36 0.0414 0.507-0.522 1.06-0.883 1.37-1.07 0.927-1.48 2.15-0.657 3.37 0.362 0.533 1.25 0.0354 0.885-0.502-0.578-0.848-0.229-1.48 0.456-2.12 0.324-0.303 0.611-0.618 0.858-0.986 0.759-1.13 0.138-2.37-0.802-3.18-0.491-0.426-1.22 0.276-0.726 0.704z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+ <path id="e" d="m19.6 25.9c0.339 0.294 0.707 0.696 0.748 1.15 0.0378 0.429-0.457 0.902-0.762 1.17-0.963 0.833-1.33 1.95-0.586 3.03 0.364 0.533 1.25 0.0351 0.885-0.502-0.49-0.719-0.196-1.24 0.384-1.79 0.274-0.259 0.52-0.526 0.739-0.834 0.727-1.03 0.188-2.17-0.682-2.93-0.491-0.426-1.22 0.274-0.726 0.703z" 
+ fill="#fff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke="#fff" stroke-width=".1"/>
+ <path id="i" d="m11.8 25.9c0.339 0.294 0.707 0.696 0.748 1.15 0.0378 0.429-0.457 0.902-0.762 1.17-0.963 0.833-1.33 1.95-0.586 3.03 0.362 0.533 1.25 0.0351 0.885-0.502-0.49-0.719-0.196-1.24 0.384-1.79 0.274-0.259 0.52-0.526 0.739-0.834 0.727-1.03 0.188-2.17-0.682-2.93-0.491-0.426-1.22 0.274-0.726 0.703z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+ <path id="g" d="m14.1 20.3h2.04c0.661 0 0.661-0.995 0-0.995h-2.04c-0.661 0-0.661 0.995 0 0.995z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+ <path id="h" d="m18.9 20.3h0.366c0.28 0 0.513-0.226 0.513-0.497s-0.233-0.497-0.513-0.497h-0.366c-0.28 0-0.513 0.226-0.513 0.497s0.233 0.497 0.513 0.497z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+ <path id="f" d="m20.7 20.3h0.328c0.28 0 0.513-0.226 0.513-0.497s-0.233-0.497-0.513-0.497h-0.328c-0.28 0-0.513 0.226-0.513 0.497s0.233 0.497 0.513 0.497z" 
+ fill="#fff"fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".1"/>
+</svg>
+
+";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:22;a:29:{s:2:"ID";s:3:"306";s:5:"TITLE";s:12:"Кружок";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"90";s:4:"LEFT";s:3:"200";s:5:"WIDTH";s:2:"32";s:6:"HEIGHT";s:2:"32";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"207";s:8:"PRIORITY";s:3:"130";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:456:"<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="exampleGradient">
+      <stop stop-color="gold" offset="0"/>    
+      <stop stop-color="yellow" offset="0.2"/>     
+      <stop stop-color="lightYellow" offset="0.8"/>         
+      <stop stop-color="lightYellow" offset="1"/>
+   </radialGradient>
+  </defs>
+
+  <circle fill="url(#exampleGradient)" fill-opacity="1" cx="60" cy="60" r="50"/>
+</svg>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:2:"18";s:11:"WINDOW_POSY";s:2:"65";s:12:"WINDOW_WIDTH";s:4:"1018";s:13:"WINDOW_HEIGHT";s:3:"608";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"4";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:23;a:29:{s:2:"ID";s:3:"469";s:5:"TITLE";s:8:"инфо";s:4:"TYPE";s:4:"mode";s:3:"TOP";s:3:"655";s:4:"LEFT";s:4:"1156";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"199";s:9:"CSS_STYLE";s:4:"fire";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:2:{i:0;a:27:{s:5:"TITLE";s:3:"off";s:5:"IMAGE";s:0:"";s:4:"HTML";s:8:"инфо";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:2:"on";s:5:"IMAGE";s:0:"";s:4:"HTML";s:8:"инфо";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:24;a:29:{s:2:"ID";s:3:"470";s:5:"TITLE";s:14:"Домофон";s:4:"TYPE";s:6:"switch";s:3:"TOP";s:3:"655";s:4:"LEFT";s:4:"1082";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:3:"198";s:9:"CSS_STYLE";s:7:"domofon";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:2:{i:0;a:27:{s:5:"TITLE";s:3:"off";s:5:"IMAGE";s:0:"";s:4:"HTML";s:6:"про";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"1";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:2:"on";s:5:"IMAGE";s:0:"";s:4:"HTML";s:6:"про";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:8:"myObject";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";N;s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:8:"myObject";s:13:"ACTION_METHOD";s:7:"turnOff";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";N;s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:25;a:29:{s:2:"ID";s:3:"486";s:5:"TITLE";s:40:"Движение в мастерской";s:4:"TYPE";s:7:"warning";s:3:"TOP";s:3:"400";s:4:"LEFT";s:3:"500";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:4:"1000";s:9:"CSS_STYLE";s:7:"motions";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:8:"Motion03";s:15:"LINKED_PROPERTY";s:6:"status";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"1";s:16:"APPEAR_ANIMATION";s:1:"5";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:53:"Движение в мастерской<br/>detected";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:8:"Motion03";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";N;s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";N;s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:26;a:29:{s:2:"ID";s:3:"487";s:5:"TITLE";s:31:"Движение туалете";s:4:"TYPE";s:7:"warning";s:3:"TOP";s:2:"80";s:4:"LEFT";s:3:"900";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:4:"1000";s:9:"CSS_STYLE";s:7:"motions";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:8:"Motion02";s:15:"LINKED_PROPERTY";s:6:"status";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"1";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:44:"Движение туалете<br/>detected";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:8:"Motion02";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";N;s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";N;s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:27;a:29:{s:2:"ID";s:3:"488";s:5:"TITLE";s:25:"Входная дверь";s:4:"TYPE";s:3:"img";s:3:"TOP";s:1:"0";s:4:"LEFT";s:3:"365";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"207";s:8:"PRIORITY";s:3:"999";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:2:{i:0;a:27:{s:5:"TITLE";s:6:"Closed";s:5:"IMAGE";s:42:"http://192.168.10.28/cms/scenes/closed.png";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:11:"Openclose01";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:6:"Opened";s:5:"IMAGE";s:41:"http://192.168.10.28/cms/scenes/opend.png";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:11:"Openclose01";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:28;a:29:{s:2:"ID";s:3:"489";s:5:"TITLE";s:27:"Входная дверь 2";s:4:"TYPE";s:3:"img";s:3:"TOP";s:1:"6";s:4:"LEFT";s:3:"390";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"207";s:8:"PRIORITY";s:3:"999";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:2:{i:0;a:27:{s:5:"TITLE";s:6:"Closed";s:5:"IMAGE";s:42:"http://192.168.10.28/cms/scenes/closed.png";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:11:"Openclose02";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:6:"Opened";s:5:"IMAGE";s:41:"http://192.168.10.28/cms/scenes/opend.png";s:4:"HTML";N;s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:11:"Openclose02";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:29;a:29:{s:2:"ID";s:3:"490";s:5:"TITLE";s:28:"Лампа в туалете";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"80";s:4:"LEFT";s:3:"650";s:5:"WIDTH";s:1:"8";s:6:"HEIGHT";s:3:"120";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"207";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"207";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:2:{i:0;a:27:{s:5:"TITLE";s:16:"Включена";s:5:"IMAGE";s:0:"";s:4:"HTML";s:343:"<svg id="b" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <path id="a" d="m4 0h24c2.22 0 4 1.78 4 4v24c0 2.22-1.78 4-4 4h-24c-2.22 0-4-1.78-4-4v-24c0-2.22 1.78-4 4-4z" 
+       fill="#ff0" fill-rule="evenodd" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".1" stroke-width=".1"/>
+</svg>";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:7:"Relay02";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}i:1;a:27:{s:5:"TITLE";s:18:"Выключена";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:7:"Relay02";s:15:"LINKED_PROPERTY";s:6:"status";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:30;a:29:{s:2:"ID";s:3:"492";s:5:"TITLE";s:2:"b4";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"438";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"250";s:6:"HEIGHT";s:2:"40";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:258:"function opencontext() {
+	    var lefto = screen.availWidth/2-250;
+	    var righto = screen.availHeight/2-225;
+	    window.open("http://smartliving.ru/Main/Library", "INFO", "width=1024, height=768, left=" + lefto + ", top="+righto+"");
+}
+newWin.close()";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"206";s:8:"PRIORITY";s:2:"80";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"206";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:171:"   <div class="okbitbr" onclick="opencontext(); return false;" style="cursor: pointer;">
+       <div class="okbitbr_in">
+          MyRusakov.ru
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}}}}
