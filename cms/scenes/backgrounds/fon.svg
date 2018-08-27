@@ -1,0 +1,9 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="b" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none" 
+ style="background: yellow"
+xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+  <polygon fill="#dd2" points="0,0 100,0 0,60" />
+  <polygon fill="#bb2" points="0,60 100,0 30,100 0,100 " />
+  <polygon fill="#992" points="30,100 100,0 100,100" />
+</svg>
