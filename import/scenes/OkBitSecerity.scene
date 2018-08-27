@@ -1,1 +1,559 @@
+a:1:{s:10:"SCENE_DATA";a:9:{s:5:"TITLE";s:13:"OkBitSecerity";s:10:"BACKGROUND";s:60:"http://192.168.10.28/cms/scenes/backgrounds/fon_1279x747.png";s:8:"PRIORITY";s:3:"150";s:6:"HIDDEN";s:1:"1";s:9:"WALLPAPER";s:0:"";s:15:"WALLPAPER_FIXED";s:1:"0";s:18:"WALLPAPER_NOREPEAT";s:1:"0";s:10:"AUTO_SCALE";s:1:"1";s:8:"ELEMENTS";a:47:{i:0;a:29:{s:2:"ID";s:3:"612";s:5:"TITLE";s:8:"button_6";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"435";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"607";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"607";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:183:"<a href="%link.s6%">
+   <div class="b1">
+       <img src="/cms/scenes/ico/set.png" border="0">
+       <div class="b1_in">
+           Система
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:1;a:29:{s:2:"ID";s:3:"613";s:5:"TITLE";s:12:"button_major";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"15";s:4:"LEFT";s:2:"15";s:5:"WIDTH";s:2:"60";s:6:"HEIGHT";s:2:"60";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"621";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"621";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:1556:"<a href="%linkdop.s1%">
+    <svg id="c" version="1.1" viewBox="0 0 32 32">
+<a stroke-width="1" target="1" xlink:href="%linkdop.s1%">
+  <path id="a" d="m15.8 0.221c0.446-0.23 0.911-0.33 1.46 0.0252l12.4 7.2c0.161 0.17 0.294 0.352 0.323 0.58l0.0616 17.9c-0.0027 0.576 0.022 1.17-1.05 1.12l-4.26 0.07 0.0165 3.82c-0.0717 0.988-0.643 1.19-1.43 1.04l-8.11-4.76-11.2-0.0663c-0.573-0.068-0.838-0.382-0.935-0.831l-0.168-18.1c0.0717-0.509 0.352-0.777 0.687-0.985z" 
+  fill="%System.stateColor%" fill-opacity=".664" fill-rule="evenodd" stroke-width="1"/>
+</a>
+<a stroke-width="1" target="1" xlink:actuate="7" xlink:arcrole="4" xlink:href="%linkdop.s1%" xlink:role="3" xlink:show="6" xlink:title="5" xlink:type="2">
+ <path id="b" d="m15.9 2.64c0.375-0.19 0.771-0.273 1.24 0.0209l10.5 5.96c0.136 0.141 0.248 0.292 0.273 0.479l0.0523 14.8c-0.0021 0.476 0.0186 0.965-0.888 0.925l-3.65 0.058c-0.273 0.063-0.576 0.0319-0.67 0.64l-0.0998 2.97c0.0106 0.704-0.489 0.271-0.854 0.0667l-6.37-3.59-9.48-0.0549c-0.483-0.0563-0.707-0.317-0.791-0.687l-0.142-14.9c0.0606-0.422 0.296-0.643 0.58-0.818z"
+ fill="#d2d4ff" fill-rule="evenodd" stroke-width="1"/>
+</a>
+<a stroke-width="1" target="1" xlink:actuate="7" xlink:arcrole="4" xlink:href="%linkdop.s1%" xlink:role="3" xlink:show="6" xlink:title="5" xlink:type="2">
+ <path id="d" d="m9.33 21.7-0.0142-11.8h2.88l4.22 9.11 0.305 0.0048 4.29-9.15 2.72 0.0118-0.0048 11.8-1.95-0.0142-0.0664-8.18-4.19 8.21h-1.96l-4.22-8.75-0.0138 8.68z" 
+ fill="%System.stateColor%" fill-rule="evenodd" stroke-width="1"/>
+</a>
+</svg>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:2;a:29:{s:2:"ID";s:3:"607";s:5:"TITLE";s:4:"Menu";s:4:"TYPE";s:9:"container";s:3:"TOP";s:2:"10";s:4:"LEFT";s:3:"750";s:5:"WIDTH";s:3:"520";s:6:"HEIGHT";s:2:"90";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"3";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:0:"";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"0";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:3;a:29:{s:2:"ID";s:3:"608";s:5:"TITLE";s:8:"button_2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:2:"95";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"607";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"607";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:184:"<a href="%link.s2%">
+   <div class="b1">
+       <img src="/cms/scenes/ico/gradus.png" border="0">
+       <div class="b1_in">
+           Климат
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:4;a:29:{s:2:"ID";s:3:"609";s:5:"TITLE";s:8:"button_3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"180";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"607";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"607";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"<a href="%link.s3%">
+   <div class="b1">
+       <img src="/cms/scenes/ico/lamp.png" border="0">
+       <div class="b1_in">
+           Освещение
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:5;a:29:{s:2:"ID";s:3:"610";s:5:"TITLE";s:8:"button_4";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"265";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"607";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"607";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:181:"<a href="%link.s4%">
+   <div class="b1">
+       <img src="/cms/scenes/ico/sec.png" border="0">
+       <div class="b1_in">
+           Охрана
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:6;a:29:{s:2:"ID";s:3:"611";s:5:"TITLE";s:8:"button_5";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"350";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"607";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"607";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:182:"<a href="%link.s5%">
+   <div class="b1">
+       <img src="/cms/scenes/ico/nota.png" border="0">
+       <div class="b1_in">
+           Музыка
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:7;a:29:{s:2:"ID";s:3:"614";s:5:"TITLE";s:12:"button_megad";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"15";s:4:"LEFT";s:3:"180";s:5:"WIDTH";s:2:"60";s:6:"HEIGHT";s:2:"60";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"621";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"621";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:1692:"<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+	<path id="path196" d="m29.6 18.9-12.5-12.5c-0.568-0.564-1.49-0.564-2.05 0l-12.5 12.5-2.43-2.43 12.5-12.5c1.9-1.91 5-1.91 6.93 0l12.5 12.5-2.43 2.43" 
+	fill="#a22829" stroke-width=".247"/>
+<path id="path206" d="m23.1 29.6h-14c-2.21 0-4-1.8-4-4v-8.21h3.44v8.21c0 0.318 0.259 0.582 0.579 0.582h14c0.318 0 0.579-0.264 0.579-0.582v-8.21h3.44v8.21c0 2.22-1.8 4-4 4" 
+fill="#a22829" stroke-width=".247"/>
+<path id="path208" d="m16 14.8c-0.484 0-0.799 0.104-0.95 0.308-0.154 0.208-0.23 0.63-0.23 1.28 0 0.816 0.0684 1.34 0.207 1.55 0.14 0.219 0.479 0.325 1.01 0.325 0.536 0 0.866-0.111 0.995-0.33 0.131-0.222 0.196-0.789 0.196-1.7 0-0.957-0.409-1.44-1.23-1.44m1.21-0.95h1.27v3.37l0.0156 0.273c0.0177 0.486 0.225 0.732 0.62 0.732 0.528 0 0.791-0.828 0.791-2.48 0-1.46-0.162-2.33-0.486-2.6-0.325-0.283-1.33-0.427-3-0.427-1.96 0-3.15 0.19-3.57 0.556-0.422 0.365-0.635 1.4-0.635 3.1 0 1.93 0.196 3.1 0.593 3.55 0.392 0.429 1.48 0.64 3.25 0.64 1.73 0 2.68-0.197 2.85-0.595l0.915 0.422c-0.367 0.771-1.71 1.15-4.02 1.15-1.92 0-3.15-0.298-3.72-0.903-0.561-0.595-0.843-1.92-0.843-3.94 0-2.15 0.3-3.5 0.9-4.07 0.595-0.573 2.01-0.856 4.24-0.856 1.94 0 3.17 0.233 3.7 0.694 0.518 0.466 0.779 1.56 0.779 3.27 0 1.35-0.133 2.27-0.397 2.75-0.263 0.486-0.761 0.734-1.49 0.734-0.997 0-1.53-0.308-1.6-0.92h-0.038c-0.196 0.635-0.779 0.95-1.75 0.95-0.759 0-1.28-0.186-1.57-0.556-0.278-0.377-0.422-1.06-0.422-2.07 0-1.12 0.131-1.86 0.399-2.23 0.268-0.372 0.799-0.558 1.59-0.558 0.828 0 1.35 0.255 1.57 0.764h0.0419v-0.734" 
+fill="#2853a8" stroke-width=".247"/>
+</svg>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:3:"200";s:11:"WINDOW_POSY";s:3:"161";s:12:"WINDOW_WIDTH";s:3:"748";s:13:"WINDOW_HEIGHT";s:3:"542";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:22:"https://www.ab-log.ru/";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:8;a:29:{s:2:"ID";s:3:"615";s:5:"TITLE";s:10:"button_sc1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"80";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:235:"<a href="%linkscenarios.s1%">
+   <div class="bb">
+       <div class="bb_in">
+        <b>Релакс</b><br>
+        <big style="font-size: 11px;">Приглуш свет и вкл музыку</big>
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"101";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:9;a:29:{s:2:"ID";s:3:"616";s:5:"TITLE";s:11:"button_dop2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"50";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:134:"<a href="%linkdop.s2%">
+   <div class="br">
+       <div class="br_in">
+          Гостинная
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:10;a:29:{s:2:"ID";s:3:"617";s:5:"TITLE";s:11:"button_dop1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:132:"<a href="%linkdop.s1%">
+   <div class="br">
+       <div class="br_in">
+          Прихожая
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:11;a:29:{s:2:"ID";s:3:"618";s:5:"TITLE";s:8:"dop_menu";s:4:"TYPE";s:9:"container";s:3:"TOP";s:3:"110";s:4:"LEFT";s:4:"1010";s:5:"WIDTH";s:3:"260";s:6:"HEIGHT";s:3:"625";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"60";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"2";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:12;a:29:{s:2:"ID";s:3:"619";s:5:"TITLE";s:9:"Left_info";s:4:"TYPE";s:9:"container";s:3:"TOP";s:3:"110";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:3:"990";s:6:"HEIGHT";s:3:"505";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:0:"";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"0";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:13;a:29:{s:2:"ID";s:3:"620";s:5:"TITLE";s:5:"Scenu";s:4:"TYPE";s:9:"container";s:3:"TOP";s:3:"625";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:3:"990";s:6:"HEIGHT";s:3:"110";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"20";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"4";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:10:"EconomMode";s:15:"LINKED_PROPERTY";s:6:"active";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"1";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:14;a:29:{s:2:"ID";s:3:"621";s:5:"TITLE";s:5:"title";s:4:"TYPE";s:9:"container";s:3:"TOP";s:2:"10";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:3:"200";s:6:"HEIGHT";s:2:"90";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"3";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:0:"";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"0";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:15;a:29:{s:2:"ID";s:3:"622";s:5:"TITLE";s:8:"button_1";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"607";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"607";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:38:"<a href="%link.s1%">
+%graph.g1%
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:16;a:29:{s:2:"ID";s:3:"623";s:5:"TITLE";s:3:"css";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:2971:"b {
+       color:#68bf0d;
+}
 
+
+.element_597, .element_538, .element_537, .element_536 {
+       background:#353535;
+}
+
+.b1 {
+      width:70px;
+      height:70px;
+      padding: 2px;
+      background: -moz-linear-gradient(#dade94, #5fbd02);
+      background: -webkit-gradient(linear, 0 0, 0 100%, from(#dade94), to(#5fbd02));
+      border: 1px solid #ad4;
+      -moz-border-radius: 5px;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+}
+
+.br {
+      width:240px;
+      height:30px;
+      padding: 5px;
+      background-color: rgba(0,0,0,0.5);
+      border: 1px solid rgba(216,197,197,0.15);
+      -moz-border-radius: 5px;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+}
+
+.b1 img {
+     margin-left: 22px;
+     margin-top:5px;
+}
+
+.b1_in {
+     margin-top: 5px;
+     text-align: center;
+}
+
+.br_in {
+     margin-top: 5px;
+     text-align: center;
+     font-size:14px;
+}
+
+.bb{
+      width:216px;
+      height:36px;
+      padding: 4px;
+      background-color: rgba(0,0,0,0.5);
+      border: 1px solid rgba(216,197,197,0.15);
+      -moz-border-radius: 2px;
+      -webkit-border-radius: 2px;
+      border-radius: 2px;
+}
+.bb1{
+      width:43px;
+      height:89px;
+      padding: 4px;
+      background-color: rgba(0,0,0,0.5);
+      border: 1px solid rgba(216,197,197,0.15);
+      -moz-border-radius: 2px;
+      -webkit-border-radius: 2px;
+      border-radius: 2px;
+}
+
+
+.bb_in {
+      text-align: center;
+}
+
+a {
+     text-decoration: none;
+}
+
+.text_ten {
+    text-shadow: #000 0 0 3px;
+}
+/* -----------------------------------------------------------------------*/
+.element_267 { animation: fortime 1s ease-out; } /* - блок времени */
+/* -------------------------------------------------------------------------------*/
+
+/* панель времени  */
+/* -----------------------------------------------------------------------*/
+.blnk {
+ font-size: 70px;
+ line-height: 1;
+ text-align: center;
+ font-family: arial;
+ font-weight: 600;
+animation: blink 1s ease infinite;
+}
+.photo {
+    border-radius: 80%;
+   }
+.photo:hover::after {
+    content: attr(data-title); /* Выводим текст */
+    position: absolute; /* Абсолютное позиционирование */
+    left: -10px; top:-50px; /* Положение подсказки */
+    z-index: 1; /* Отображаем подсказку поверх других элементов */
+    background: rgba(255,255,230,0.6); /* Полупрозрачный цвет фона */
+    font-family: Arial, sans-serif; /* Гарнитура шрифта */
+    font-size: 11px; /* Размер текста подсказки */
+    padding: 5px 10px; /* Поля */
+    border: 1px solid #333; /* Параметры рамки */
+    color:000;
+   }
+ @font-face { 
+  font-family: 'Liquid Crystal';
+  src: url('/templates_alt/liquid_crystal/LiquidCrystal.ttf');
+  }";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"70";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:0:{}}i:17;a:29:{s:2:"ID";s:3:"624";s:5:"TITLE";s:11:"button_dop3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"95";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:130:"<a href="%linkdop.s3%">
+   <div class="br">
+       <div class="br_in">
+          Детская
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:18;a:29:{s:2:"ID";s:3:"625";s:5:"TITLE";s:11:"button_dop4";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"140";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:128:"<a href="%linkdop.s4%">
+   <div class="br">
+       <div class="br_in">
+          Балкон
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:19;a:29:{s:2:"ID";s:3:"626";s:5:"TITLE";s:11:"button_dop5";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"185";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:126:"<a href="%linkdop.s5%">
+   <div class="br">
+       <div class="br_in">
+          Кухня
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:20;a:29:{s:2:"ID";s:3:"627";s:5:"TITLE";s:11:"button_dop6";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"230";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:128:"<a href="%linkdop.s6%">
+   <div class="br">
+       <div class="br_in">
+          Ванная
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:21;a:29:{s:2:"ID";s:3:"628";s:5:"TITLE";s:11:"button_dop7";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"275";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:126:"<a href="%linkdop.s7%">
+   <div class="br">
+       <div class="br_in">
+          Схема
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:22;a:29:{s:2:"ID";s:3:"629";s:5:"TITLE";s:15:"button_dopRadio";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"580";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"230";s:6:"HEIGHT";s:2:"30";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"618";s:8:"PRIORITY";s:1:"0";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"618";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:142:"<a href="%linkdop.s12%">
+   <div class="br">
+       <div class="br_in">
+          Позвать Алису
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:23;a:29:{s:2:"ID";s:3:"630";s:5:"TITLE";s:10:"button_sc2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"70";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:446:"   <div class="bb" onclick="myFunction()">
+       <div class="bb_in">
+        <b>День</b><br>
+        <big style="font-size: 11px;">Максимальная подсветка</big>
+       </div>
+   </div>
+     <script>
+function myFunction() {
+    var x = document.getElementById('myDIV');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"101";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:24;a:29:{s:2:"ID";s:3:"631";s:5:"TITLE";s:10:"button_sc3";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"236";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"60";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:185:"   <div class="bb">
+       <div class="bb_in">
+        <b>Вечер</b><br>
+        <big style="font-size: 11px;">Приглушить диммиры</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:25;a:29:{s:2:"ID";s:3:"632";s:5:"TITLE";s:10:"button_sc4";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:3:"236";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"50";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"   <div class="bb">
+       <div class="bb_in">
+        <b>Свет</b><br>
+        <big style="font-size: 11px;">Включить верхний свет</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:26;a:29:{s:2:"ID";s:3:"633";s:5:"TITLE";s:10:"button_sc6";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:3:"467";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"   <div class="bb">
+       <div class="bb_in">
+        <b>Свет</b><br>
+        <big style="font-size: 11px;">Включить верхний свет</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:27;a:29:{s:2:"ID";s:3:"634";s:5:"TITLE";s:10:"button_sc7";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"698";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"20";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:185:"   <div class="bb">
+       <div class="bb_in">
+        <b>Вечер</b><br>
+        <big style="font-size: 11px;">Приглушить диммиры</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:28;a:29:{s:2:"ID";s:3:"635";s:5:"TITLE";s:10:"button_sc8";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:3:"698";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"   <div class="bb">
+       <div class="bb_in">
+        <b>Свет</b><br>
+        <big style="font-size: 11px;">Включить верхний свет</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:29;a:29:{s:2:"ID";s:3:"636";s:5:"TITLE";s:10:"button_sc9";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"929";s:5:"WIDTH";s:2:"53";s:6:"HEIGHT";s:2:"98";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:241:"   <div class="bb1">
+       <div class="bb_in">
+        <b>Н</b><br>
+        <big style="font-size: 11px;">о</big>
+        <big style="font-size: 11px;">р</big>
+        <big style="font-size: 11px;">м</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:10:"EconomMode";s:13:"ACTION_METHOD";s:8:"activate";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"101";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:30;a:29:{s:2:"ID";s:3:"637";s:5:"TITLE";s:5:"timer";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"300";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:192:"function reload (){
+ clearTimeOut();
+ }
+ var delay = 60000;
+  setTimeout("document.location.href='/popup/scenes/8.html'", delay);
+ 
+  $(window,document).on("click",function(){reload()});";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"621";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"621";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:1306:"<div class="text_ten" align="left" id="txt" style='cursor: default;font-family:sans;text-align:center;color:#66FF00;font-size:32pt'></div>
+<br>
+<div class="text_ten" id="txt1" style='cursor: default;text-align:center;color:#66FF00;font-size:12pt'></div>
+
+<script type="text/javascript">
+    function time() {
+      var today = new Date();
+      var day_of_week = ["воскр", "понед", "вторник", "среда", "четверг", "пятница", "суббота"];
+      var month_of_year = ["января", "Февраля", "марта", "апреля", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"];
+      var day_ = day_of_week[today.getDay()];
+      var date_ = today.getDate();
+      var month_ = month_of_year[today.getMonth()];
+      //var year_ = today.getFullYear();
+      var hours_ = today.getHours();
+      var min_ = today.getMinutes();
+      var sec_ = today.getSeconds();
+      var zerom = zeros = '';
+      if(min_ < 10) zerom = '0';
+      if(sec_ < 10) zeros = '0';
+ document.getElementById('txt').innerHTML=hours_+""+":"+""+zerom+min_+""+":"+""+zeros+sec_;
+ document.getElementById('txt1').innerHTML=day_+","+'&nbsp'+'&nbsp'+date_+" "+month_;
+   }
+   setInterval(time, 1);
+</script>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:31;a:29:{s:2:"ID";s:3:"638";s:5:"TITLE";s:17:"button_sc8 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:3:"698";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"   <div class="bb">
+       <div class="bb_in">
+        <b>Свет</b><br>
+        <big style="font-size: 11px;">Включить верхний свет</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:32;a:29:{s:2:"ID";s:3:"639";s:5:"TITLE";s:17:"button_sc7 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"698";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"20";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:185:"   <div class="bb">
+       <div class="bb_in">
+        <b>Вечер</b><br>
+        <big style="font-size: 11px;">Приглушить диммиры</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:33;a:29:{s:2:"ID";s:3:"640";s:5:"TITLE";s:17:"button_sc6 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:3:"467";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"   <div class="bb">
+       <div class="bb_in">
+        <b>Свет</b><br>
+        <big style="font-size: 11px;">Включить верхний свет</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:34;a:29:{s:2:"ID";s:3:"641";s:5:"TITLE";s:17:"button_sc5 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"467";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:185:"   <div class="bb">
+       <div class="bb_in">
+        <b>Вечер</b><br>
+        <big style="font-size: 11px;">Приглушить диммиры</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:35;a:29:{s:2:"ID";s:3:"642";s:5:"TITLE";s:17:"button_sc4 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:3:"236";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"50";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:188:"   <div class="bb">
+       <div class="bb_in">
+        <b>Свет</b><br>
+        <big style="font-size: 11px;">Включить верхний свет</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:36;a:29:{s:2:"ID";s:3:"643";s:5:"TITLE";s:17:"button_sc9 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"929";s:5:"WIDTH";s:2:"53";s:6:"HEIGHT";s:2:"98";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:197:"   <div class="bb1">
+       <div class="bb_in">
+        <b>Э</b><br>
+        <big style="font-size: 11px;">к</big><br>
+        <big style="font-size: 11px;">о</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:10:"EconomMode";s:13:"ACTION_METHOD";s:10:"deactivate";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:37;a:29:{s:2:"ID";s:3:"644";s:5:"TITLE";s:17:"button_sc3 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"236";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"60";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:185:"   <div class="bb">
+       <div class="bb_in">
+        <b>Вечер</b><br>
+        <big style="font-size: 11px;">Приглушить диммиры</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:38;a:29:{s:2:"ID";s:3:"645";s:5:"TITLE";s:12:"button_okbit";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"15";s:4:"LEFT";s:3:"100";s:5:"WIDTH";s:2:"55";s:6:"HEIGHT";s:2:"55";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"621";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"621";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:1357:"<a href="http://ns1.okbit.ru/#one">
+<svg id="a" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+ <path id="d" d="m139 100a39.1 39.4 0 0 1 -39.1 39.4 39.1 39.4 0 0 1 -39.1 -39.4 39.1 39.4 0 0 1 39.1 -39.4 39.1 39.4 0 0 1 39.1 39.4zm-139-0.0424 10.2-20.9c3.21-13.4 9.12-26.1 18.5-38.1l-8.3-1.3c20.5-24.8 45.2-37.8 75.1-39.8 3.22 2.37 6.46 2.03 9.69 0 40.4 3.97 58.3 21.5 74.9 39.7l-8.65 1.43c9.18 10.9 14.7 23.8 18.4 37.6l10.2 21.5-9.95 21c-1.87 9.7-6.18 21.1-18.4 38.1l8.71 1.54c-19.8 23.7-44.3 38.2-75.6 39.1-5.5-3.42-6.33-1.65-9.76 0.103-24-1.13-48.5-9.61-74.6-39l8.14-1.6c-6.1-7.27-14.7-23.4-18.4-38z" fill-rule="evenodd" style="paint-order:normal"/>
+ <path id="c" d="m90.4 145c-8.88 4.8-31 12.7-61.7 17.1 11 10.3 27.4 30.2 66.6 32.9 69.4-23.7 90.6-69.8 101-95.7-28-64-64.1-83-102-95.4-24.2 1.4-44.4 10.5-66.5 32.6 20.5 2.73 43.7 8.12 61.4 17.8 22.6-3.81 51.7 7.63 57.1 41.8 5.26 1.76 5.29 3.02 0.854 6.53-4.55 20.3-17.2 46.2-56.8 42.4z" fill="#f68338" fill-opacity=".994" fill-rule="evenodd"/>
+ <path id="b" d="m111 144c8.88 4.8 30.8 13.7 61.5 18.1-11 10.3-27.9 29.6-67.1 32.4-69.4-23.7-91-70.3-101-96.2 28-64 63.6-83.1 101-95.5 24.2 1.4 46.6 10.9 66.5 32.6-22.3 3.49-44.1 8.84-61.9 18.5-28.5-1.81-48 8.78-55.8 41.5-3.7 2.91-4.3 3.31 0.142 6.81 1.2 21.9 18.6 47.2 56.6 41.7z" fill="#4eaa4b" fill-rule="evenodd"/>
+</svg>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:39;a:29:{s:2:"ID";s:3:"646";s:5:"TITLE";s:10:"button_sc5";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:3:"467";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"620";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:185:"   <div class="bb">
+       <div class="bb_in">
+        <b>Вечер</b><br>
+        <big style="font-size: 11px;">Приглушить диммиры</big>
+       </div>
+   </div>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:40;a:29:{s:2:"ID";s:3:"647";s:5:"TITLE";s:6:"Scenu1";s:4:"TYPE";s:9:"container";s:3:"TOP";s:3:"625";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:3:"990";s:6:"HEIGHT";s:3:"110";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:1:"0";s:8:"PRIORITY";s:2:"20";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:1:"0";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"4";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:7:"Default";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"1";s:13:"CURRENT_STATE";s:1:"0";s:13:"LINKED_OBJECT";s:10:"EconomMode";s:15:"LINKED_PROPERTY";s:6:"active";s:9:"CONDITION";s:1:"4";s:15:"CONDITION_VALUE";s:1:"0";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:2:"99";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:41;a:29:{s:2:"ID";s:3:"648";s:5:"TITLE";s:17:"button_sc1 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"5";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"80";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:235:"<a href="%linkscenarios.s1%">
+   <div class="bb">
+       <div class="bb_in">
+        <b>Релакс</b><br>
+        <big style="font-size: 11px;">Приглуш свет и вкл музыку</big>
+       </div>
+   </div>
+</a>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:42;a:29:{s:2:"ID";s:3:"649";s:5:"TITLE";s:17:"button_sc2 (copy)";s:4:"TYPE";s:4:"html";s:3:"TOP";s:2:"58";s:4:"LEFT";s:1:"5";s:5:"WIDTH";s:3:"226";s:6:"HEIGHT";s:2:"46";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"620";s:8:"PRIORITY";s:2:"70";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"647";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";s:0:"";s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:446:"   <div class="bb" onclick="myFunction()">
+       <div class="bb_in">
+        <b>День</b><br>
+        <big style="font-size: 11px;">Максимальная подсветка</big>
+       </div>
+   </div>
+     <script>
+function myFunction() {
+    var x = document.getElementById('myDIV');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:3:"100";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:43;a:29:{s:2:"ID";s:3:"652";s:5:"TITLE";s:3:"img";s:4:"TYPE";s:4:"html";s:3:"TOP";s:1:"0";s:4:"LEFT";s:1:"0";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"619";s:8:"PRIORITY";s:2:"10";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"619";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:69:"<img src="/cms/scenes/backgrounds/isud.jpg" width="990" height="505">";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:44;a:29:{s:2:"ID";s:3:"653";s:5:"TITLE";s:7:"rslider";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"100";s:4:"LEFT";s:3:"100";s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"619";s:8:"PRIORITY";s:2:"20";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"619";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:45;a:29:{s:2:"ID";s:3:"654";s:5:"TITLE";s:5:"gaudg";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"200";s:4:"LEFT";s:3:"200";s:5:"WIDTH";s:3:"200";s:6:"HEIGHT";s:3:"200";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"0";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"619";s:8:"PRIORITY";s:2:"30";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"619";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:0:"";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}i:46;a:29:{s:2:"ID";s:3:"739";s:5:"TITLE";s:6:"light2";s:4:"TYPE";s:4:"html";s:3:"TOP";s:3:"250";s:4:"LEFT";s:2:"10";s:5:"WIDTH";s:3:"300";s:6:"HEIGHT";s:3:"300";s:11:"CROSS_SCENE";s:1:"0";s:10:"BACKGROUND";s:1:"1";s:10:"JAVASCRIPT";s:0:"";s:3:"CSS";s:0:"";s:2:"DX";s:1:"0";s:2:"DY";s:1:"0";s:17:"LINKED_ELEMENT_ID";s:3:"619";s:8:"PRIORITY";s:2:"40";s:9:"CSS_STYLE";s:7:"default";s:13:"POSITION_TYPE";s:1:"0";s:12:"CONTAINER_ID";s:3:"619";s:9:"S3D_SCENE";s:0:"";s:12:"SMART_REPEAT";s:1:"0";s:6:"SYSTEM";s:0:"";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:13:"LINKED_METHOD";s:0:"";s:11:"WIZARD_DATA";N;s:11:"EASY_CONFIG";s:1:"0";s:16:"APPEAR_ANIMATION";s:1:"0";s:9:"DEVICE_ID";s:1:"0";s:6:"STATES";a:1:{i:0;a:27:{s:5:"TITLE";s:1:"1";s:5:"IMAGE";s:0:"";s:4:"HTML";s:20225:"<?xml version="1.0" encoding="UTF-8"?>
+<svg id="%Dimmer02.object_title%%Dimmer02.linkedRoom%" width="290" version="1.1" viewBox="0 0 279 215" xmlns="http://www.w3.org/2000/svg">
+ <rect id="fon" width="279" height="215" rx="8.3" ry="8.3" fill="#f6f8f7" stroke-width="1.07"/>
+ <path id="maskatime" d="m274 38.9v69.9c0 20.7-15.7 29.6-29.6 29.6s-29.6-8.91-29.6-29.6v-69.9c0-20.7 15.7-29.6 29.6-29.6s29.6 8.85 29.6 29.6z" 
+ fill="#383c47" stroke-width="1.07"/>
+ <path id="batt25" d="m128 45a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <text id="t25" x="104.35661" y="50.762341" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:0%" xml:space="preserve">25%</text>
+ <path id="batt50" d="m128 115a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <path id="batt75" d="m198 115a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <path id="batt100" d="m198 45a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <text id="t50" x="87.311554" y="120.87749" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" word-spacing="0px" style="line-height:0%" xml:space="preserve">50%</text>
+ <text id="t75" x="157.28954" y="120.86917" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" word-spacing="0px" style="line-height:0%" xml:space="preserve">75%</text>
+ <text id="t100" x="174.26546" y="50.762341" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:0%" xml:space="preserve">100%</text>
+ <path id="maskaup" d="m63.9 38.9v69.9c0 20.7-15.7 29.6-29.6 29.6s-29.6-8.91-29.6-29.6v-69.9c0-20.7 15.7-29.6 29.6-29.6s29.6 8.85 29.6 29.6z" 
+ fill="#383c47" stroke-width="1.07"/>
+ <path id="battupbr" d="m57.6 38.9a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#dbdcdd" fill-rule="evenodd" opacity=".99" stroke="#9e9ea9" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+ style="paint-order:normal"/>
+ <path id="b" d="m19 35.8c-1.09 1.45 0.176 1.51 2.12-0.241 4.7-4 8.99-6.37 13.6-6.37 5.14 6.2e-5 8.43 1.88 13.2 6.37 1.6 1.62 3.1 1.9 1.92 1.6e-5 -7.87-10-12.1-15.4-15.1-15.4-3.63 0.0078-7.4 5.42-15.7 15.6z" 
+       fill="#303037" fill-rule="evenodd"/>
+ <path id="brightup" d="m39.4 43.6a5.06 5.06 0 0 1 -5.06 5.06 5.06 5.06 0 0 1 -5.06 -5.06 5.06 5.06 0 0 1 5.06 -5.06 5.06 5.06 0 0 1 5.06 5.06m1.32 0.0012a6.39 6.39 0 0 1 -6.39 6.39 6.39 6.39 0 0 1 -6.39 -6.39 6.39 6.39 0 0 1 6.39 -6.39 6.39 6.39 0 0 1 6.39 6.39m2.91 5.64h-1.87v-1.87h1.87zm-3.55 3.35h-1.87v-1.87h1.87zm6.87-8.05h-3.89v-1.87h3.89zm-3.3-6.59h-1.87v1.87h1.87zm-3.55-3.35h-1.87v1.87h1.87zm-15 14.6h1.87v-1.87h-1.87zm3.55 3.35h1.87v-1.87h-1.87zm4.81 3.89v-3.89h1.87v3.89zm-11.7-11.9h3.89v-1.87h-3.89zm3.3-6.59h1.87v1.87h-1.87zm3.55-3.35h1.87v1.87h-1.87zm4.81-3.89v3.89h1.87v-3.89z" 
+       fill-rule="evenodd" opacity=".99" stroke-width="1.07" style="paint-order:normal"/>
+ <path id="battdownbr" d="m57.6 109a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#dbdcdd" fill-rule="evenodd" opacity=".99" stroke="#9e9ea9" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+ style="paint-order:normal"/>
+ <path id="as" d="m18.8 112c-1.09-1.45 0.176-1.51 2.12 0.241 4.7 4 8.99 6.37 13.6 6.37 5.14-8e-5 8.43-1.88 13.2-6.37 1.6-1.62 3.1-1.9 1.92 0-7.87 10-12.1 15.4-15.1 15.4-3.63-8e-3 -7.4-5.42-15.7-15.6z" 
+       fill="#303037" fill-rule="evenodd"/>
+ <path id="brightdown" d="m39.3 104a5.06 5.06 0 0 0 -5.06 -5.06 5.06 5.06 0 0 0 -5.06 5.06 5.06 5.06 0 0 0 5.06 5.06 5.06 5.06 0 0 0 5.06 -5.06m1.32-1e-3a6.39 6.39 0 0 0 -6.39 -6.39 6.39 6.39 0 0 0 -6.39 6.39 6.39 6.39 0 0 0 6.39 6.39 6.39 6.39 0 0 0 6.39 -6.39m2.91-5.64h-1.87v1.87h1.87zm-3.55-3.35h-1.87v1.87h1.87zm6.87 8.05h-3.89v1.87h3.89zm-3.3 6.59h-1.87v-1.87h1.87zm-3.55 3.35h-1.87v-1.87h1.87zm-15-14.6h1.87v1.87h-1.87zm3.55-3.35h1.87v1.87h-1.87zm4.81-3.89v3.89h1.87v-3.89zm-11.7 11.9h3.89v1.87h-3.89zm3.3 6.59h1.87v-1.87h-1.87zm3.55 3.35h1.87v-1.87h-1.87zm4.81 3.89v-3.89h1.87v3.89z" 
+       fill-rule="evenodd" opacity=".99" stroke-width="1.07" style="paint-order:normal"/>
+ <path id="buttonred_.object_title_" d="m160 80a20.3 20.3 0 0 1 -20.3 20.3 20.3 20.3 0 0 1 -20.3 -20.3 20.3 20.3 0 0 1 20.3 -20.3 20.3 20.3 0 0 1 20.3 20.3" 
+ fill="#f95951" fill-rule="evenodd" opacity=".99" stroke="#9b2d3b" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+ style="paint-order:normal"/>
+ <text id="texttitle" x="139" y="14" fill="#ff0000" font-family="Ubuntu" font-size="14px" font-weight="bold" letter-spacing="0px" 
+ stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">%Dimmer02.object_description%</text>
+ <text id="textvol" x="34" y="80" fill="#ff0000" font-family="Ubuntu" font-size="14px" font-weight="bold" letter-spacing="0px" 
+ stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">%Dimmer02.level%</text>
+ <path id="battdownt" d="m268 109a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#dbdcdd" fill-rule="evenodd" opacity=".99" stroke="#9e9ea9" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <path id="battupt" d="m268 38.9a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#dbdcdd" fill-rule="evenodd" opacity=".99" stroke="#9e9ea9" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <text id="texttimer" x="244.853" y="79.185295" fill="#ff0000" font-family="sans" font-size="14px" font-weight="bold" letter-spacing="0px" 
+ stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">%Dimmer02.time%</text>
+ <circle id="page2" cx="34.3" cy="215" r="7.79" fill="#d9dadc" fill-rule="evenodd" opacity=".99" stroke="#000" stroke-dashoffset=".8" stroke-linecap="round" 
+ stroke-linejoin="round" stroke-opacity=".53" style="paint-order:normal"/>
+ <circle id="page3" cx="139" cy="215" r="7.79" fill="#d9dadc" fill-rule="evenodd" opacity=".99" stroke="#000" stroke-dashoffset=".8" stroke-linecap="round" 
+ stroke-linejoin="round" stroke-opacity=".53" style="paint-order:fill markers stroke"/>
+ <circle id="page4" cx="245" cy="215" r="7.79" fill="#d9dadc" fill-rule="evenodd" opacity=".99" stroke="#000" stroke-dashoffset=".8" stroke-linecap="round" 
+ stroke-linejoin="round" stroke-opacity=".53" style="paint-order:normal"/>
+ <circle id="page5" cx="210" cy="215" r="7.79" fill="#d9dadc" fill-rule="evenodd" opacity=".99" stroke="#000" stroke-dashoffset=".8" stroke-linecap="round" 
+ stroke-opacity=".53" style="paint-order:normal"/>
+ <circle id="page1" cx="69.2" cy="215" r="7.79" fill="#26c124" fill-rule="evenodd" opacity=".99" stroke="#00f900" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".53" 
+         style="paint-order:normal"/>
+ <path id="as-9" d="m229 112c-1.09-1.45 0.176-1.51 2.12 0.241 4.7 4 8.99 6.37 13.6 6.37 5.14-7e-5 8.43-1.88 13.2-6.37 1.6-1.62 3.1-1.9 1.92 0-7.87 10-12.1 15.4-15.1 15.4-3.63-8e-3 -7.4-5.42-15.7-15.6z" 
+       fill="#303037" fill-rule="evenodd"/>
+ <path id="b-6" d="m229 36.2c-1.09 1.45 0.176 1.51 2.12-0.241 4.7-4 8.99-6.37 13.6-6.37 5.14 6.2e-5 8.43 1.88 13.2 6.37 1.6 1.62 3.1 1.9 1.92 1.6e-5 -7.87-10-12.1-15.4-15.1-15.4-3.63 0.0078-7.4 5.42-15.7 15.6z" 
+       fill="#303037" fill-rule="evenodd"/>
+ <path id="timerup" d="m235 44 2.72-0.0167m14.8 0.0333 2.72-0.0167m-10-7.41-0.0167-2.72m-0.0978 20.3-0.0167-2.72m-4.79-10.9 4.81 4.21 6.11-5.77m4.03 5.04a10.1 10.1 0 0 1 -10.1 10.1 10.1 10.1 0 0 1 -10.1 -10.1 10.1 10.1 0 0 1 10.1 -10.1 10.1 10.1 0 0 1 10.1 10.1z" 
+       fill="none" stroke="#000" stroke-linecap="round"/>
+ <path id="timerdown" d="m235 104 2.72-0.0167m14.8 0.0333 2.72-0.0167m-10-7.41-0.0167-2.72m-0.0978 20.3-0.0167-2.72m-4.79-10.9 4.81 4.21 6.11-5.77m4.03 5.04a10.1 10.1 0 0 1 -10.1 10.1 10.1 10.1 0 0 1 -10.1 -10.1 10.1 10.1 0 0 1 10.1 -10.1 10.1 10.1 0 0 1 10.1 10.1z" 
+       fill="none" stroke="#000" stroke-linecap="round"/>
+ <path id="maskbrightup" d="m56.1 38.9a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" style="paint-order:normal"
+       onClick='callMethod("Dimmer02.plus");return false;' 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="maskbrightdown" d="m56.1 109a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onClick='callMethod("Dimmer02.minus");return false;' 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="masktimerup" d="m267 38.9a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" stroke-width="0" style="paint-order:normal" 
+       onClick='callMethod("Dimmer02.timeplus");return false;' 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="masktimerdown" d="m267 109a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" stroke-width="0" style="paint-order:normal" 
+       onClick='callMethod("Dimmer02.timeminus");return false;' 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ 
+ <path id="mask25" d="m126 45a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','192');"
+       onmousedown="1" 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;" 
+       onmouseup="1"/>
+ <path id="mask50" d="m126 115a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','127');" 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="mask75" d="m196 115a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".3" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','64');" 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="mask100" d="m196 45a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','0');" 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ 
+ <text id="t25-3" x="139.51521" y="85.812576" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">0%</text> 
+ <path id="maskbuttonred" d="m161 80a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','255');" 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ 
+ <path id="maskpage1" d="m77.8 215a8.57 8.57 0 0 1 -8.57 8.57 8.57 8.57 0 0 1 -8.57 -8.57 8.57 8.57 0 0 1 8.57 -8.57 8.57 8.57 0 0 1 8.57 8.57" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick=""/>
+ <path id="maskpage2" d="m42.8 215a8.57 8.57 0 0 1 -8.57 8.57 8.57 8.57 0 0 1 -8.57 -8.57 8.57 8.57 0 0 1 8.57 -8.57 8.57 8.57 0 0 1 8.57 8.57" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick=""/>
+ <path id="maskpage3" d="m148 215a8.57 8.57 0 0 1 -8.57 8.57 8.57 8.57 0 0 1 -8.57 -8.57 8.57 8.57 0 0 1 8.57 -8.57 8.57 8.57 0 0 1 8.57 8.57" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick=""/>
+ <path id="maskpage4" d="m253 215a8.57 8.57 0 0 1 -8.57 8.57 8.57 8.57 0 0 1 -8.57 -8.57 8.57 8.57 0 0 1 8.57 -8.57 8.57 8.57 0 0 1 8.57 8.57" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick=""/>
+ <path id="maskpage5" d="m218 215a8.57 8.57 0 0 1 -8.57 8.57 8.57 8.57 0 0 1 -8.57 -8.57 8.57 8.57 0 0 1 8.57 -8.57 8.57 8.57 0 0 1 8.57 8.57" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick="changeCol(evt)"/>
+ <path id="batt75-3" d="m198 179a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','333');" 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <text id="t75-6" x="175" y="185" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">%Dimmer02.gradient%</text>
+ <path id="maskbattF" d="m196 179a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick='callMethod("Dimmer02.dimUpDown");return false;'
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="batt75-3-6" d="m128 179a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal" 
+       onclick="ajaxSetGlobal('Dimmer02.level','64');"/>
+ <text id="t75-6-2" x="104" y="185" fill="#ffffff" font-family="sans" font-size="18px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">Л</text>
+ <path id="maskbattL" d="m126 179a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick='callMethod("Relay06.switch");return false;' 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="battMemory" d="m57.6 173a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill='%Dimmer02.direct|"#a7ff52;#7e8492;"%' fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <text id="t75-6-7" x="33" y="179" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">%Dimmer02.memory%м</text>
+ <path id="maskbattMemory" d="m56.1 173a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick='callMethod("Dimmer02.memorySwitch");return false;' 
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+ <path id="batt75-3-3" d="m268 173a23.4 23.4 0 0 1 -23.4 23.4 23.4 23.4 0 0 1 -23.4 -23.4 23.4 23.4 0 0 1 23.4 -23.4 23.4 23.4 0 0 1 23.4 23.4" 
+ fill="#7e8492" fill-rule="evenodd" opacity=".99" stroke="#5a5d60" stroke-dashoffset=".8" stroke-linecap="round" stroke-linejoin="round" 
+ stroke-width="2" style="paint-order:normal"/>
+ <text id="t75-6-6" x="244.72421" y="177.95197" fill="#ffffff" font-family="sans" font-size="14px" font-weight="500" letter-spacing="0px" 
+ stroke-width="1.07px" text-align="center" text-anchor="middle" word-spacing="0px" xml:space="preserve">%Dimmer02.cnt%</text>
+ <path id="maskbattT" d="m267 173a21.8 21.8 0 0 1 -21.8 21.8 21.8 21.8 0 0 1 -21.8 -21.8 21.8 21.8 0 0 1 21.8 -21.8 21.8 21.8 0 0 1 21.8 21.8" 
+ fill="#e3dcd5" fill-opacity=".267" fill-rule="evenodd" opacity=".99" style="paint-order:normal" 
+       onclick='callMethod("Dimmer02.pwmCnt");return false;'
+       onmouseout="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 0;" 
+       onmouseover="this.style.stroke = '#5a5d60'; this.style['stroke-width'] = 4;"/>
+</svg>";s:10:"IS_DYNAMIC";s:1:"0";s:13:"CURRENT_STATE";s:1:"1";s:13:"LINKED_OBJECT";s:0:"";s:15:"LINKED_PROPERTY";s:0:"";s:9:"CONDITION";s:1:"1";s:15:"CONDITION_VALUE";s:0:"";s:18:"CONDITION_ADVANCED";s:0:"";s:9:"SCRIPT_ID";s:1:"0";s:12:"SWITCH_SCENE";s:1:"0";s:14:"CURRENT_STATUS";s:1:"0";s:13:"ACTION_OBJECT";s:0:"";s:13:"ACTION_METHOD";s:0:"";s:12:"MENU_ITEM_ID";s:1:"0";s:11:"WINDOW_POSX";s:1:"0";s:11:"WINDOW_POSY";s:1:"0";s:12:"WINDOW_WIDTH";s:1:"0";s:13:"WINDOW_HEIGHT";s:1:"0";s:11:"HOMEPAGE_ID";s:1:"0";s:7:"EXT_URL";s:0:"";s:8:"PRIORITY";s:1:"0";s:4:"CODE";s:0:"";s:13:"OPEN_SCENE_ID";s:1:"0";s:10:"S3D_OBJECT";s:0:"";s:10:"S3D_CAMERA";s:0:"";}}}}}}
