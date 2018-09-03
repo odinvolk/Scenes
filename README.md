@@ -1,4 +1,6 @@
 # Scenes
 Сцена для мажордомо
 
-Пример прототипа темы можно посмотреть на канале Влада OKbit https://www.youtube.com/watch?v=Wgrk2-zvJzE
+Сделана по примеру темы Влада OKbit https://www.youtube.com/watch?v=fNFgWQPQfe0&t=959s
+
+Модифицирована с применением SVG графики
