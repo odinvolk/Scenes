@@ -8,4 +8,4 @@
 работы ещё много но общая концепция есть ...
 
 
-![](docs/images/rompr-on-a-phone.png)
+![](cms/scenes/backgrounds/OkBitLight.png)
