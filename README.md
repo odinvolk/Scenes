@@ -13,5 +13,8 @@
 Сцена котёл
 ![](cms/scenes/backgrounds/OkBitKotel.png)
 
+Сцена музыка (фреймом вставлен RompR)
+![](cms/scenes/backgrounds/OkBitMuzic.png)
+
 Сцена освещение
 ![](cms/scenes/backgrounds/OkBitLight.png)
