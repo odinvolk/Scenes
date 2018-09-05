@@ -9,5 +9,9 @@
 
 Сцена основная
 ![](cms/scenes/backgrounds/OkBitHome.png)
+
+Сцена котёл
+![](cms/scenes/backgrounds/OkBitKotel.png)
+
 Сцена освещение
 ![](cms/scenes/backgrounds/OkBitLight.png)
