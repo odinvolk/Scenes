@@ -7,5 +7,5 @@
 
 работы ещё много но общая концепция есть ...
 
-
+Сцена освещение
 ![](cms/scenes/backgrounds/OkBitLight.png)
