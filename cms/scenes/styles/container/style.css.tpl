@@ -1,4 +1,4 @@
-/* HTML */
+/* CONTAINER */
 
 .container_background.style_grey_bg {
         color:white;
