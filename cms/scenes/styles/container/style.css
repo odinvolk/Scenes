@@ -1,6 +1,6 @@
 /* HTML */
 
-.container_background{
+.container_background.style_grey_bg {
         color:white;
         border:1px solid rgba(0, 0, 0, 0.2);
         overflow: hidden;
