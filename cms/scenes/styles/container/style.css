@@ -4,7 +4,7 @@
         color:white;
         border:1px solid rgba(0, 0, 0, 0.2);
         overflow: hidden;
-        background-color:#353535;
+        background-color: rgba(53, 53, 53, 0.8);
         padding:10px;
 margin-bottom:1px;
 }
