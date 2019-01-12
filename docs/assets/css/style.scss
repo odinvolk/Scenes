@@ -1,0 +1,119 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1, h2, h3, h4, h5
+{
+    font-family: 'Nunito', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5
+{
+    font-family: 'Nunito', 'Helvetica Neue', Helvetica, Arial, serif;
+    border-bottom: 1px solid #cccccc;
+}
+
+a.button
+{
+    font-family: 'Nunito', 'Helvetica Neue', Helvetica, Arial, serif;
+    
+}
+
+body
+{
+    font-family: 'Nunito', 'Helvetica Neue', Helvetica, Arial, serif;
+    
+}
+
+#sidebar a.pagelist
+{
+    margin-left: 1em;
+    line-height: 2em;
+}
+
+#sidebar a.pagelist2
+{
+    margin-left: 2em;
+    line-height: 2em;
+}
+
+#logo
+{
+    display: inline-block;
+    height: 72px;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+header h1
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header h2
+{
+    color: white;
+}
+
+header
+{
+    font-family: 'Nunito', 'Helvetica Neue', Helvetica, Arial, serif;
+    background: linear-gradient(rgba(255,120,0,1), rgba(120,60,0,1));
+    border-bottom: 1px solid black;
+}
+
+aside a.button
+{
+    background: transparent url('../../images/button.png') 0 0 no-repeat;
+}
+
+a.button.download
+{
+    background: transparent url('../../images/download-icon.png') 0 0 no-repeat;
+}
+
+.button:hover
+{
+    color: black;
+}
+
+#main-content h1::before
+{
+    color: #ff7800;
+    content: "-";
+}
+
+#main-content h2::before
+{
+    color: #ff7800;
+    content: "--";
+}
+
+#main-content h3::before
+{
+    color: #ff7800;
+    content: "---";
+}
+
+aside#sidebar
+{
+    border-left: 1px solid grey;
+}
+
+code {
+    margin-bottom: 20px;
+    background-color: #f8f8f8;
+    border: none;
+}
+
+pre code {
+    background-color: none;
+    color: black;
+}
+
+p.slogan {
+    color: white;
+}
