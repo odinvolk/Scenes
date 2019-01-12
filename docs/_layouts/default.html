@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,400i,700&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+{% seo %}
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+          <img id="logo" src="images/favicon-128.png" />
+        <a href="{{ '/' | absolute_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <p class="slogan">Listen more, Discover more, Relax more</p>
+        {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+        {% endif %}
+        {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        {% endif %}
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="button">
+              <small>Download</small>
+              .zip file
+            </a>
+            <a href="{{ site.github.tar_url }}" class="button">
+              <small>Download</small>
+              .tar.gz file
+            </a>
+          {% endif %}
+
+          <a href="https://github.com/fatg3erman/RompR/releases" class="button download"><small><b>Download The Latest Release</b></small></a>
+
+          <h3>Resources</h3>
+          <a class="pagelist" href="https://sourceforge.net/p/rompr/discussion/general/"><b>Discussion Forum</b></a><br/>
+          
+          <a class="pagelist" href="https://github.com/fatg3erman/RompR/issues"><b>Issue Tracker</b></a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Changelog">Changelog</a><br/>
+          
+          <h3>Installation</h3>
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Recommended-Installation-on-Linux">Linux (with Nginx)</a><br/>
+          
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Installation-on-Linux-Alternative-Method">Linux (with Apache)</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Installation-on-macOS">macOS (With Apache)</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/macOS-With-Nginx">macOS (With Nginx)</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Installation-with-Docker">Install with Docker</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Using-a-MySQL-server">Using a MySQL server</a><br/>
+          
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Troubleshooting">Troubleshooting</a><br/>
+
+          <h3>Configuration Notes</h3>
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Automatic-Collection-Updates">Automatic Collection Updates</a><br/>
+          
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Rompr-And-Mopidy">Rompr And Mopidy</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Rompr-And-Mobiles">Using Mobile Devices</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Automating-RompR">Automation and Smart Home</a><br/>
+
+          <h3>Getting Involved</h3>
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Translating-Rompr">Create a Translation</a><br/>
+
+          <h3>Core Features</h3>
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Music-Collection">The Music Collection</a><br/>
+          
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/The-Playlist">The Current Playlist</a><br/>
+          
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/The-Info-Panel">The Info Panel</a><br/>
+          
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Music-Discovery">Music Discovery</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Internet-Radio">Internet Radio</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Podcasts">Podcasts</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Searching-For-Music">Searching For Music</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Personalised-Radio">Personalised Radio</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Album-Art-Manager">Album Art Manager</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Using-Saved-Playlists">Using Saved Playlists</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Managing-Ratings-And-Tags">Managing Ratings and Tags</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/The-Wishlist">Your Wishlist</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Backing-Up-Your-Metadata">Backing Up Your Metadata</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/OPML-Importer">OPML Importer</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/LastFM">Last.FM</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Using-Multiple-Players">Multi-Room Audio</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Alarm-And-Sleep">Alarm and Sleep Timer</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Keyboard-Shortcuts">Keyboard Shortcuts</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Skins">Skins</a><br/>
+          <a class="pagelist2" href="https://fatg3erman.github.io/RompR/Desktop-Skin">Desktop</a><br/>
+          <a class="pagelist2" href="https://fatg3erman.github.io/RompR/Fruit-Skin">Fruit</a><br/>
+          <a class="pagelist2" href="https://fatg3erman.github.io/RompR/Phone-Skin">Phone</a><br/>
+          <a class="pagelist2" href="https://fatg3erman.github.io/RompR/Tablet-Skin">Tablet</a><br/>
+          <a class="pagelist2" href="https://fatg3erman.github.io/RompR/Skypotato-Skin">Skypotato</a><br/>
+
+          <a class="pagelist" href="https://fatg3erman.github.io/RompR/Theming">Themes</a><br/>
+
+        </aside>
+      </div>
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
