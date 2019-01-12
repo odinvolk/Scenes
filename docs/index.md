@@ -11,10 +11,23 @@
 
 -
 
-### в настольном браузере
+# Scenes
+Сцена для мажордомо я её назвал OkBitScenes, если Влад не против.
 
-![](images/rompr-1.png)
+Сделана по примеру темы Влада OKbit https://www.youtube.com/watch?v=fNFgWQPQfe0&t=959s
 
-### в браузере телефона
+Модифицирована с применением SVG графики под планшет 10 дюймов разрешением 1280x748, 
 
-![](images/rompr-on-a-phone.png)
+работы ещё много но общая концепция есть ...
+
+Сцена основная
+![](cms/scenes/backgrounds/OkBitHome.png)
+
+Сцена котёл
+![](cms/scenes/backgrounds/OkBitKotel.png)
+
+Сцена музыка (фреймом вставлен RompR)
+![](cms/scenes/backgrounds/OkBitMuzic.png)
+
+Сцена освещение
+![](cms/scenes/backgrounds/OkBitLight.png)
