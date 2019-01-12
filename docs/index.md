@@ -21,13 +21,13 @@
 работы ещё много но общая концепция есть ...
 
 Сцена основная
-![](./cms/scenes/backgrounds/OkBitHome.png)
+![](images/OkBitHome.png)
 
 Сцена котёл
-![](./cms/scenes/backgrounds/OkBitKotel.png)
+![](images/OkBitKotel.png)
 
 Сцена музыка (фреймом вставлен RompR)
-![](./cms/scenes/backgrounds/OkBitMuzic.png)
+![](images/OkBitMuzic.png)
 
 Сцена освещение
-![](./cms/scenes/backgrounds/OkBitLight.png)
+![](images/OkBitLight.png)
