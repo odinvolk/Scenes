@@ -1,5 +1,5 @@
 # Build and Release Folders
-doc/
+docs/
 bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
