@@ -19,5 +19,5 @@
 Сцена освещение
 ![](images/OkBitLight.png)
 
-Сцена схема
+Сцена схема нарисована в SVG
 ![](images/OkBitShema.png)
