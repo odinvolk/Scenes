@@ -18,3 +18,6 @@
 
 Сцена освещение
 ![](images/OkBitLight.png)
+
+Сцена схема
+![](images/OkBitShema.png)
