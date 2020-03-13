@@ -1,5 +1,5 @@
 # Scenes
-Сцена для МажорДоМо я её назвал OkBitScenes, если Влад не против.
+Сцена для МажорДоМо Scenes.
 
 Сделана по примеру темы Влада [OKbit на YouTobe](https://www.youtube.com/watch?v=fNFgWQPQfe0&t=959s)
 
